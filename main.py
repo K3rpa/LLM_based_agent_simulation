@@ -1,6 +1,8 @@
 import json
 import copy
-from typing import Dict, Any
+from typing import Dict, Any, List
+from collections import OrderedDict
+
 
 class Plan:
     def __init__(self, file_path: str = None): 
@@ -44,3 +46,64 @@ class Plan:
                 print(f"\n{day_name}:")
                 for hour, event in sorted(day_plan.items(), key=lambda x: int(x[0])):
                     print(f"  {hour}:00 - {event}")
+
+class Memory:
+    def __init__(self, capacity: int, name: str):
+        self.capacity = capacity
+        self.name = name
+        self.memory: Dict[str, Dict[str, Any]] = OrderedDict()
+    
+    def calculate_importance(self, event: str,  curtick: int, tick: int) -> float:
+        return 1
+    
+    def calculate_relevance(self, event: str, tick: int) -> float:
+        return 1
+    
+    def calculate_recency(self, curtick: int, tick: int) -> float:
+        return 1
+
+    def calculate_score(self, recency: float, importance: float, relevance: float = 1) -> float:
+        if self.name == "long_term_memory":
+            return recency * importance * relevance
+        return recency * importance
+    
+    def recalculate_all_scores(self, current_tick: int):
+        if self.name == "long_term_memory":
+            for key, value in self.memory.items():
+                importance = self.calculate_importance(value['event'], current_tick, value['tick'])
+                self.memory[value['event']]['importance'] = importance
+                recency = self.calculate_recency(current_tick, value["tick"])
+                self.memory[value['event']]['recency'] = recency
+                relevance = self.calculate_relevance(value['event'], value['tick'])
+                self.memory[value['event']]['relevance'] = relevance
+                value['score'] = self.calculate_score(recency, importance, relevance)
+        else:
+            for key, value in self.memory.items():
+                importance = self.calculate_importance(value['event'], current_tick, value['tick'])
+                self.memory[value['event']]['importance'] = importance
+                recency = self.calculate_recency(current_tick, value["tick"])
+                self.memory[value['event']]['recency'] = recency
+                value['score'] = self.calculate_score(recency, importance)
+    
+    def add(self, tick: int, event_name: str, importance: float = 1, recency: float = 1, relevance: float = 1):
+        new_entry = {
+            "event": event_name,
+            "tick": tick,
+            "importance": importance,
+            "recency" : recency,
+            "relevance" : relevance,
+            "score": 0
+        }
+
+        if len(self.memory) < self.capacity:
+            self.memory[event_name] = new_entry
+        else:
+            self.memory.popitem(last=False)
+            self.memory[event_name] = new_entry
+
+
+    def delete(self, event_name: str):
+        if event_name in self.memory:
+            del self.memory[event_name]
+        else:
+            raise KeyError(f"{event_name} does not exist in memory.")
