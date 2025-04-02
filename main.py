@@ -60,7 +60,7 @@ class Memory:
         return 1
     
     def calculate_recency(self, curtick: int, tick: int) -> float:
-        return 1
+        return curtick
 
     def calculate_score(self, recency: float, importance: float, relevance: float = 1) -> float:
         if self.name == "long_term_memory":
@@ -85,6 +85,35 @@ class Memory:
                 self.memory[value['event']]['recency'] = recency
                 value['score'] = self.calculate_score(recency, importance)
     
+    def migrate(self, target_memory: 'Memory', current_tick: int):
+        for key, value in list(self.memory.items()):
+            recency = self.calculate_recency(current_tick, value['tick'])
+            importance = self.calculate_importance(value['event'], current_tick, value['tick'])
+            if target_memory.name == "long_term_memory":
+                self.memory[value['event']]['recency'] = recency
+                self.memory[value['event']]['importance'] = importance
+                relevance = self.calculate_relevance(value['event'], value['tick'])
+                self.memory[value['event']]['relevance'] = relevance
+                score = self.calculate_score(recency, importance, relevance)
+            else:
+                score = self.calculate_score(recency, importance)
+            
+            if len(target_memory.memory) < target_memory.capacity:
+                target_memory.memory[key] = value.copy()
+                target_memory.memory[key]['score'] = score
+            
+            else:
+                lowest_score_key, lowest_score_value = min(target_memory.memory.items(), key=lambda item: item[1]['score'])
+                
+                if score > lowest_score_value['score']:
+                    del target_memory.memory[lowest_score_key]
+                    target_memory.memory[key] = value.copy()
+                    target_memory.memory[key]['score'] = score
+        
+        target_memory.memory = OrderedDict(
+            sorted(target_memory.memory.items(), key=lambda item: item[1]['score'], reverse=True)
+        )
+    
     def add(self, tick: int, event_name: str, importance: float = 1, recency: float = 1, relevance: float = 1):
         new_entry = {
             "event": event_name,
@@ -107,3 +136,11 @@ class Memory:
             del self.memory[event_name]
         else:
             raise KeyError(f"{event_name} does not exist in memory.")
+        
+    def print_memory(self):
+        print(f"\n--- {self.name} Memory (Capacity: {self.capacity}) ---")
+        for key, value in self.memory.items():
+            print(f"{key}: {value}")
+
+    def get(self) -> Dict[str, Any]:
+        return dict(self.memory)
