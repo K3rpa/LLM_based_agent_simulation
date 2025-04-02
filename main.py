@@ -3,6 +3,9 @@ import copy
 from typing import Dict, Any, List
 from collections import OrderedDict
 
+client = OpenAI(
+    api_key="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"
+)
 
 class Plan:
     def __init__(self, file_path: str = None): 
@@ -47,20 +50,63 @@ class Plan:
                 for hour, event in sorted(day_plan.items(), key=lambda x: int(x[0])):
                     print(f"  {hour}:00 - {event}")
 
+###############################################################
+###############################################################
+###############################################################
+###############################################################
+##############         Memory class        ####################
+###############################################################
+###############################################################
+###############################################################
+###############################################################
+
+
 class Memory:
+
+    def load_file(self, filename: str) -> str:
+        with open(filename, 'r', encoding='utf-8') as file:
+            return file.read().strip()
     def __init__(self, capacity: int, name: str):
         self.capacity = capacity
         self.name = name
         self.memory: Dict[str, Dict[str, Any]] = OrderedDict()
     
     def calculate_importance(self, event: str,  curtick: int, tick: int) -> float:
-        return 1
+        system_role = self.load_file("systemrole.txt")
+        time_passed = curtick - tick
+
+        prompt = (
+            f"On a scale from 1 to 20, rate how important the following event is to you:\n"
+            f"Event: {event}\n"
+            f"Now it is tick {curtick}. This event was recorded at tick {tick}.\n"
+            f"It has been {time_passed} ticks since the event was recorded.\n"
+            f"Only provide a single float number between 1 and 20, 1 is not important to you at all, 20 is really important to you.\n "
+            f"need exactly number, nothing else. such answer could be 3"
+        )
+        classification_context = [
+            {"role": "system", "content": system_role},
+            {"role": "user", "content": prompt}
+        ]
+
+        try:
+            response = client.chat.completions.create(
+                model="gpt-3.5-turbo",
+                messages=classification_context
+            )
+            result = response.choices[0].message.content.strip()
+            print(result)
+            importance_score = float(result)
+        except Exception as e:
+            print(f"Error calculating importance: {e}")
+            return 1.0
+        return importance_score
     
     def calculate_relevance(self, event: str, tick: int) -> float:
         return 1
     
     def calculate_recency(self, curtick: int, tick: int) -> float:
-        return curtick
+        recency = 1 - ((curtick - tick) / 100)
+        return max(0.01, recency)
 
     def calculate_score(self, recency: float, importance: float, relevance: float = 1) -> float:
         if self.name == "long_term_memory":
