@@ -1,7 +1,11 @@
 import json
 import copy
+import numpy as np
 from typing import Dict, Any, List
 from collections import OrderedDict
+from sklearn.metrics.pairwise import cosine_similarity
+
+
 
 client = OpenAI(
     api_key="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"
@@ -70,6 +74,8 @@ class Memory:
         self.capacity = capacity
         self.name = name
         self.memory: Dict[str, Dict[str, Any]] = OrderedDict()
+        self.system_role = self.load_file("systemrole.txt")
+        self.system_role_embedding = self.get_embedding(self.system_role)
     
     def calculate_importance(self, event: str,  curtick: int, tick: int) -> float:
         system_role = self.load_file("systemrole.txt")
@@ -101,17 +107,40 @@ class Memory:
             return 1.0
         return importance_score
     
+    def get_embedding(self, text: str) -> List[float]:
+        try:
+            response = client.embeddings.create(
+                model="text-embedding-ada-002",
+                input=text
+            )
+            embedding = response.data[0].embedding
+            return embedding
+        except Exception as e:
+            print(f"Error generating embedding: {e}")
+            return []
+    def calculate_similarity(self, emb1: List[float], emb2: List[float]) -> float:
+        if not emb1 or not emb2:
+            return 0.0
+
+        emb1 = np.array(emb1).reshape(1, -1)
+        emb2 = np.array(emb2).reshape(1, -1)
+
+        similarity = cosine_similarity(emb1, emb2)[0][0]
+        return similarity
+
     def calculate_relevance(self, event: str, tick: int) -> float:
-        return 1
+        event_embedding = self.get_embedding(event)
+        relevance_score = self.calculate_similarity(self.system_role_embedding, event_embedding)
+        return relevance_score
     
     def calculate_recency(self, curtick: int, tick: int) -> float:
         recency = 1 - ((curtick - tick) / 100)
         return max(0.01, recency)
 
-    def calculate_score(self, recency: float, importance: float, relevance: float = 1) -> float:
+    def calculate_score(self, recency: float, importance: float, relevance: float = 0) -> float:
         if self.name == "long_term_memory":
             return recency * importance * relevance
-        return recency * importance
+        return recency * importance * 0.01
     
     def recalculate_all_scores(self, current_tick: int):
         if self.name == "long_term_memory":
@@ -160,7 +189,7 @@ class Memory:
             sorted(target_memory.memory.items(), key=lambda item: item[1]['score'], reverse=True)
         )
     
-    def add(self, tick: int, event_name: str, importance: float = 1, recency: float = 1, relevance: float = 1):
+    def add(self, tick: int, event_name: str, importance: float = 0, recency: float = 0, relevance: float = 0):
         new_entry = {
             "event": event_name,
             "tick": tick,
