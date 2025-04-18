@@ -46,7 +46,7 @@ class Memory:
                 messages=classification_context
             )
             result = response.choices[0].message.content.strip()
-            print(result)
+            #print(result)
             importance_score = float(result)
         except Exception as e:
             print(f"Error calculating importance: {e}")
@@ -110,9 +110,9 @@ class Memory:
         for key, value in list(self.memory.items()):
             recency = self.calculate_recency(current_tick, value['tick'])
             importance = self.calculate_importance(value['event'], current_tick, value['tick'])
+            self.memory[value['event']]['recency'] = recency
+            self.memory[value['event']]['importance'] = importance
             if target_memory.name == "long_term_memory":
-                self.memory[value['event']]['recency'] = recency
-                self.memory[value['event']]['importance'] = importance
                 relevance = self.calculate_relevance(value['event'], value['tick'])
                 self.memory[value['event']]['relevance'] = relevance
                 score = self.calculate_score(recency, importance, relevance)
