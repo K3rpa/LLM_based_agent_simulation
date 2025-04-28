@@ -22,9 +22,18 @@ def main():
     curtick = 0
     for tick in range(24):
         print(f"\n--- Tick {tick} (curtick = {curtick}) ---")
-        event_manager.simulate_tick(current_day, tick, curtick)
+        main_event = event_manager.get_main_event(current_day, curtick)
+        print(f"Main Event: {main_event}")
+        fixed_subevents = event_manager.get_fixed_subevents(tick, main_event)
+        fixed_main_event = event_manager.get_fixed_main_event(tick)
+
+        if fixed_subevents and fixed_main_event == main_event:
+            subevents = fixed_subevents
+        else:
+            subevents = [f"{main_event} at tick {tick}"]
         
-        subevents = event_manager.get_fixed_subevents(tick)
+        print(f"Sub Event: {subevents}")
+
         for event in subevents:
             sensory_memory.add(tick=tick, event_name=event)
         curtick = (curtick + 1) % 24

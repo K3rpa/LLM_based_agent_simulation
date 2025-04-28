@@ -1,64 +1,192 @@
 {
-    "8": [
-        "roommate made omelette"
-    ],
-    "9": [
-        "introduce algorithm class syllabus",
-        "professor publish first assignment to form team with other 4 student"
-    ],
-    "10": [
-        "found your teammate they are tom, brian, chris and alex"
-    ],
-    "11": [
-        "tom introduce himself(he is computer junior student, good at python and c++)",
-        "brian introduce himself(he is computer senior student, good at c++)",
-        "chris introduce himself(he is computer junior student, enjoy on mobile development)",
-        "alex introduce himself(he is computer junior student, familiar to c++)"
-    ],
-    "12": [
-        "eating lunch with tom"
-    ],
-    "13": [
-        "tom shared some useful notes on algorithm",
-        "alex invited you to join an online coding platform for practicing"
-    ],
-    "14": [
-        "group formed discord group to discuss project",
-        "chris suggested starting with project outline",
-        "professor posted sample solutions to previous year assignments"
-    ],
-    "15": [
-        "team agreed to divide task by individual strengths",
-        "brian shared github repo link"
-    ],
-    "16": [
-        "alex faced a bug and asked for help",
-        "you and chris tried debugging the issue"
-    ],
-    "17": [
-        "break time, watched a short YouTube tutorial on recursion"
-    ],
-    "18": [
-        "dinner with roommates while discussing today’s progress"
-    ],
-    "19": [
-        "brian sent a funny meme in the discord group",
-        "you played an online game with tom"
-    ],
-    "20": [
-        "chris messaged group: let’s meet again on Wednesday",
-        "watched a YouTube video about algorithms"
-    ],
-    "21": [
-        "scrolled Reddit for programming memes",
-        "alex sent an article about effective debugging habits"
-    ],
-    "22": [
-        "video call with parents, shared your day",
-        "team posted daily progress in shared Notion"
-    ],
-    "23": [
-        "you wrote a short reflection journal about teamwork experience",
-        "set alarm and prepared clothes for Tuesday"
-    ]
+    "8": {
+        "Wake up, Breakfast": [
+            "roommate made omelette"
+        ]
+    },
+    "9": {
+        "Algorithm Class": [
+            "introduce algorithm class syllabus",
+            "Algorithm Class professor publish first assignment to form team with other 4 student"
+        ]
+    },
+    "10": {
+        "Algorithm Class": [
+            "found your Algorithm Class teammate they are tom, brian, chris and alex"
+        ]
+    },
+    "11": {
+        "Algorithm Class": [
+            "tom introduce himself(he is computer junior student, good at python and c++)",
+            "brian introduce himself(he is computer senior student, good at c++)",
+            "chris introduce himself(he is computer junior student, enjoy on mobile development)",
+            "alex introduce himself(he is computer junior student, familiar to c++)"
+        ]
+    },
+    "12": {
+        "Lunch": [
+            "eating lunch with tom"
+        ]
+    },
+    "13": {
+        "Study/Homework (Algorithm, Math)": [
+            "tom shared some useful notes on algorithm",
+            "alex invited you to join an online coding platform for practicing"
+        ]
+    },
+    "14": {
+        "Study/Homework (Algorithm, Math)": [
+            "Algorithm Class group formed discord group to discuss project",
+            "chris suggested starting with project outline",
+            "Algorithm Class professor posted sample solutions to previous year assignments"
+        ]
+    },
+    "15": {
+        "Study/Homework (Algorithm, Math)": [
+            "Algorithm Class team agreed to divide task by individual strengths",
+            "brian shared github repo link"
+        ]
+    },
+    "16": {
+        "Study/Homework (Algorithm, Math)": [
+            "alex faced a bug and asked for help",
+            "you and chris tried debugging the issue"
+        ]
+    },
+    "17": {
+        "Study/Homework (Algorithm, Math)": [
+            "break time, watched a short YouTube tutorial on recursion"
+        ]
+    },
+    "18": {
+        "Dinner": [
+            "dinner with roommates while discussing today’s progress"
+        ]
+    },
+    "19": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "brian sent a funny meme in the discord group",
+            "you played an online game with tom"
+        ]
+    },
+    "20": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "chris messaged group: let’s meet again on Wednesday",
+            "watched a YouTube video about algorithms"
+        ]
+    },
+    "21": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "scrolled Reddit for programming memes",
+            "alex sent an article about effective debugging habits"
+        ]
+    },
+    "22": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "video call with parents, shared your day",
+            "team posted daily progress in shared Notion"
+        ]
+    },
+    "23": {
+        "Sleep Preparation": [
+            "you wrote a short reflection journal about teamwork experience",
+            "set alarm and prepared clothes for Tuesday"
+        ]
+    },
+    "32": {
+        "Wake up, Breakfast": [
+            "woke up feeling a bit tired after a late night",
+            "roommate made scrambled eggs and shared a funny story from yesterday"
+        ]
+    },
+    "33": {
+        "Math Class": [
+            "math professor explained the course grading policy and syllabus",
+            "Math Class assignment 1 on integration techniques was announced"
+        ]
+    },
+    "34": {
+        "Math Class": [
+            "participated in a math class group activity solving basic integration problems",
+            "discussed substitution method strategies with classmates"
+        ]
+    },
+    "35": {
+        "Math Class": [
+            "math professor shared online resources for calculus practice",
+            "you joined a study group with alice, john, and emily",
+            "alice is a sophomore majoring in mathematics, interested in statistics",
+            "john is a junior studying physics, passionate about solving complex problems",
+            "emily is a senior in computer science, focused on data analysis"
+        ]
+    },
+    "36": {
+        "Lunch": [
+            "had lunch with the new study group at the campus cafeteria",
+            "talked about assignment deadlines and upcoming exams"
+        ]
+    },
+    "37": {
+        "Software Engineering Class": [
+            "software engineering professor introduced project-based course format",
+            "explained expectations for semester-long group projects"
+        ]
+    },
+    "38": {
+        "Software Engineering Class": [
+            "randomly assigned into a new project team with david, sophie, and kevin",
+            "brainstormed initial ideas for a task management web application",
+            "david is a senior specializing in backend systems, especially Node.js",
+            "sophie is a junior passionate about UI/UX design and front-end technologies",
+            "kevin is a sophomore exploring mobile app development"
+        ]
+    },
+    "39": {
+        "Software Engineering Class": [
+            "Software Engineering Class team decided on using React and Node.js for the software project",
+            "assigned initial roles: backend, frontend, UI/UX, and project manager"
+        ]
+    },
+    "40": {
+        "Study/Homework (Software Engineering)": [
+            "set up a Discord server for team collaboration",
+            "created a Trello board to manage software engineering project tasks"
+        ]
+    },
+    "41": {
+        "Study/Homework (Software Engineering)": [
+            "researched agile methods suitable for managing software projects",
+            "watched tutorial videos on effective sprint planning"
+        ]
+    },
+    "42": {
+        "Dinner": [
+            "cooked spaghetti and shared a casual meal with roommates",
+            "laughed about today's group project experiences during dinner"
+        ]
+    },
+    "43": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "played two rounds of Valorant with online friends",
+            "watched a startup documentary recommended by a classmate"
+        ]
+    },
+    "44": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "browsed GitHub to find open-source projects related to React",
+            "saved some interesting web app ideas for future inspiration"
+        ]
+    },
+    "45": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "joined a Reddit AMA about preparing for coding interviews",
+            "read articles on improving study efficiency for technical courses"
+        ]
+    },
+    "46": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "checked LinkedIn for updates on tech internships",
+            "relaxed by scrolling through funny coding memes before sleeping"
+        ]
+    }
 }

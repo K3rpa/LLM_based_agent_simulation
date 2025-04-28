@@ -1,0 +1,82 @@
+{
+    "brian sent a funny meme in the discord group": {
+        "event": "brian sent a funny meme in the discord group",
+        "tick": 19,
+        "importance": 3.0,
+        "recency": 0.96,
+        "relevance": 0,
+        "score": 0
+    },
+    "you played an online game with tom": {
+        "event": "you played an online game with tom",
+        "tick": 19,
+        "importance": 4.5,
+        "recency": 0.96,
+        "relevance": 0,
+        "score": 0
+    },
+    "chris messaged group: let’s meet again on Wednesday": {
+        "event": "chris messaged group: let’s meet again on Wednesday",
+        "tick": 20,
+        "importance": 5.5,
+        "recency": 0.97,
+        "relevance": 0,
+        "score": 0
+    },
+    "watched a YouTube video about algorithms": {
+        "event": "watched a YouTube video about algorithms",
+        "tick": 20,
+        "importance": 7.0,
+        "recency": 0.97,
+        "relevance": 0,
+        "score": 0
+    },
+    "scrolled Reddit for programming memes": {
+        "event": "scrolled Reddit for programming memes",
+        "tick": 21,
+        "importance": 8.5,
+        "recency": 0.98,
+        "relevance": 0,
+        "score": 0
+    },
+    "alex sent an article about effective debugging habits": {
+        "event": "alex sent an article about effective debugging habits",
+        "tick": 21,
+        "importance": 9.0,
+        "recency": 0.98,
+        "relevance": 0,
+        "score": 0
+    },
+    "video call with parents, shared your day": {
+        "event": "video call with parents, shared your day",
+        "tick": 22,
+        "importance": 7.5,
+        "recency": 0.99,
+        "relevance": 0,
+        "score": 0
+    },
+    "team posted daily progress in shared Notion": {
+        "event": "team posted daily progress in shared Notion",
+        "tick": 22,
+        "importance": 7.5,
+        "recency": 0.99,
+        "relevance": 0,
+        "score": 0
+    },
+    "you wrote a short reflection journal about teamwork experience": {
+        "event": "you wrote a short reflection journal about teamwork experience",
+        "tick": 23,
+        "importance": 15.5,
+        "recency": 1.0,
+        "relevance": 0,
+        "score": 0
+    },
+    "set alarm and prepared clothes for Tuesday": {
+        "event": "set alarm and prepared clothes for Tuesday",
+        "tick": 23,
+        "importance": 7.0,
+        "recency": 1.0,
+        "relevance": 0,
+        "score": 0
+    }
+}

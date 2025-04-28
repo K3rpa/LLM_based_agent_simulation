@@ -1,0 +1,42 @@
+{
+    "you wrote a short reflection journal about teamwork experience": {
+        "event": "you wrote a short reflection journal about teamwork experience",
+        "tick": 23,
+        "importance": 15.5,
+        "recency": 1.0,
+        "relevance": 0,
+        "score": 0.155
+    },
+    "alex sent an article about effective debugging habits": {
+        "event": "alex sent an article about effective debugging habits",
+        "tick": 21,
+        "importance": 9.0,
+        "recency": 0.98,
+        "relevance": 0,
+        "score": 0.0882
+    },
+    "scrolled Reddit for programming memes": {
+        "event": "scrolled Reddit for programming memes",
+        "tick": 21,
+        "importance": 8.5,
+        "recency": 0.98,
+        "relevance": 0,
+        "score": 0.0833
+    },
+    "video call with parents, shared your day": {
+        "event": "video call with parents, shared your day",
+        "tick": 22,
+        "importance": 7.5,
+        "recency": 0.99,
+        "relevance": 0,
+        "score": 0.07425
+    },
+    "team posted daily progress in shared Notion": {
+        "event": "team posted daily progress in shared Notion",
+        "tick": 22,
+        "importance": 7.5,
+        "recency": 0.99,
+        "relevance": 0,
+        "score": 0.07425
+    }
+}
