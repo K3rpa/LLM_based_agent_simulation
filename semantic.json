@@ -1,0 +1,53 @@
+{
+    "sem_001": {
+      "id": "sem_001",
+      "text": "Going to bed early improves overall health.",
+      "strength": 1.0
+    },
+    "sem_002": {
+      "id": "sem_002",
+      "text": "Consistent effort is key to effective learning.",
+      "strength": 1.0
+    },
+    "sem_003": {
+      "id": "sem_003",
+      "text": "Working with others increases productivity.",
+      "strength": 1.0
+    },
+    "sem_004": {
+      "id": "sem_004",
+      "text": "Regular exercise boosts concentration.",
+      "strength": 1.0
+    },
+    "sem_005": {
+      "id": "sem_005",
+      "text": "Finishing tasks on time reduces stress and anxiety.",
+      "strength": 1.0
+    },
+    "sem_006": {
+      "id": "sem_006",
+      "text": "Previewing lessons helps better understand lectures.",
+      "strength": 1.0
+    },
+    "sem_007": {
+      "id": "sem_007",
+      "text": "Clear communication prevents misunderstandings.",
+      "strength": 1.0
+    },
+    "sem_008": {
+      "id": "sem_008",
+      "text": "Scheduling time wisely is more effective than last-minute cramming.",
+      "strength": 1.0
+    },
+    "sem_009": {
+      "id": "sem_009",
+      "text": "Helping others strengthens relationships.",
+      "strength": 1.0
+    },
+    "sem_010": {
+      "id": "sem_010",
+      "text": "A clean environment enhances study focus.",
+      "strength": 1.0
+    }
+  }
+  

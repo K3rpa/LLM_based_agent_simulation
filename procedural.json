@@ -1,0 +1,43 @@
+{
+    "proc_001": {
+      "id": "proc_001",
+      "text": "Wake up, Breakfast"
+    },
+    "proc_002": {
+      "id": "proc_002",
+      "text": "Sleep Preparation"
+    },
+    "proc_003": {
+      "id": "proc_003",
+      "text": "Sleep"
+    },
+    "proc_004": {
+      "id": "proc_004",
+      "text": "Exercise or Morning Stretching"
+    },
+    "proc_005": {
+      "id": "proc_005",
+      "text": "Check Messages or Social Media"
+    },
+    "proc_006": {
+      "id": "proc_006",
+      "text": "Attend Lecture or Online Class"
+    },
+    "proc_007": {
+      "id": "proc_007",
+      "text": "Take Notes and Review Material"
+    },
+    "proc_008": {
+      "id": "proc_008",
+      "text": "Group Discussion or Collaboration"
+    },
+    "proc_009": {
+      "id": "proc_009",
+      "text": "Complete Assignments"
+    },
+    "proc_010": {
+      "id": "proc_010",
+      "text": "Organize Study Space"
+    }
+  }
+  
