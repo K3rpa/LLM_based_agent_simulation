@@ -1,80 +1,320 @@
 {
-    "brian sent a funny meme in the discord group": {
-        "event": "brian sent a funny meme in the discord group",
-        "tick": 19,
-        "importance": 3.0,
-        "recency": 0.96,
-        "relevance": 0,
-        "score": 0
-    },
-    "you played an online game with tom": {
-        "event": "you played an online game with tom",
-        "tick": 19,
+    "updated bookmarks in your personal knowledge base": {
+        "event": "updated bookmarks in your personal knowledge base",
+        "tick": 142,
         "importance": 4.5,
+        "recency": 0.75,
+        "relevance": 0,
+        "score": 0
+    },
+    "Sleep Preparation at tick 143": {
+        "event": "Sleep Preparation at tick 143",
+        "tick": 143,
+        "importance": 16.0,
+        "recency": 0.76,
+        "relevance": 0,
+        "score": 0
+    },
+    "Sleep at tick 144": {
+        "event": "Sleep at tick 144",
+        "tick": 144,
+        "importance": 6.0,
+        "recency": 0.77,
+        "relevance": 0,
+        "score": 0
+    },
+    "Sleep at tick 145": {
+        "event": "Sleep at tick 145",
+        "tick": 145,
+        "importance": 12.0,
+        "recency": 0.78,
+        "relevance": 0,
+        "score": 0
+    },
+    "Sleep at tick 146": {
+        "event": "Sleep at tick 146",
+        "tick": 146,
+        "importance": 5.0,
+        "recency": 0.79,
+        "relevance": 0,
+        "score": 0
+    },
+    "Sleep at tick 147": {
+        "event": "Sleep at tick 147",
+        "tick": 147,
+        "importance": 5.5,
+        "recency": 0.8,
+        "relevance": 0,
+        "score": 0
+    },
+    "Sleep at tick 148": {
+        "event": "Sleep at tick 148",
+        "tick": 148,
+        "importance": 11.0,
+        "recency": 0.81,
+        "relevance": 0,
+        "score": 0
+    },
+    "Sleep at tick 149": {
+        "event": "Sleep at tick 149",
+        "tick": 149,
+        "importance": 8.5,
+        "recency": 0.8200000000000001,
+        "relevance": 0,
+        "score": 0
+    },
+    "Sleep at tick 150": {
+        "event": "Sleep at tick 150",
+        "tick": 150,
+        "importance": 6.5,
+        "recency": 0.83,
+        "relevance": 0,
+        "score": 0
+    },
+    "Sleep at tick 151": {
+        "event": "Sleep at tick 151",
+        "tick": 151,
+        "importance": 10.0,
+        "recency": 0.84,
+        "relevance": 0,
+        "score": 0
+    },
+    "woke up feeling refreshed after a productive week": {
+        "event": "woke up feeling refreshed after a productive week",
+        "tick": 152,
+        "importance": 8.0,
+        "recency": 0.85,
+        "relevance": 0,
+        "score": 0
+    },
+    "roommate made avocado toast and reminded you to buy groceries": {
+        "event": "roommate made avocado toast and reminded you to buy groceries",
+        "tick": 152,
+        "importance": 8.0,
+        "recency": 0.85,
+        "relevance": 0,
+        "score": 0
+    },
+    "browsed the fruit aisle for apples and oranges": {
+        "event": "browsed the fruit aisle for apples and oranges",
+        "tick": 153,
+        "importance": 2.0,
+        "recency": 0.86,
+        "relevance": 0,
+        "score": 0
+    },
+    "accidentally bumped into a familiar face near the frozen food section": {
+        "event": "accidentally bumped into a familiar face near the frozen food section",
+        "tick": 153,
+        "importance": 5.0,
+        "recency": 0.86,
+        "relevance": 0,
+        "score": 0
+    },
+    "it was ryan — your old high school friend who just transferred here this semester": {
+        "event": "it was ryan — your old high school friend who just transferred here this semester",
+        "tick": 153,
+        "importance": 4.0,
+        "recency": 0.86,
+        "relevance": 0,
+        "score": 0
+    },
+    "ryan is a second-year computer engineering student, known for his quick wit and love for hackathons": {
+        "event": "ryan is a second-year computer engineering student, known for his quick wit and love for hackathons",
+        "tick": 153,
+        "importance": 5.0,
+        "recency": 0.86,
+        "relevance": 0,
+        "score": 0
+    },
+    "talked with ryan about your high school memories and recent courses": {
+        "event": "talked with ryan about your high school memories and recent courses",
+        "tick": 154,
+        "importance": 5.0,
+        "recency": 0.87,
+        "relevance": 0,
+        "score": 0
+    },
+    "discovered you're both taking algorithms this semester": {
+        "event": "discovered you're both taking algorithms this semester",
+        "tick": 154,
+        "importance": 6.5,
+        "recency": 0.87,
+        "relevance": 0,
+        "score": 0
+    },
+    "ryan invited you to join his weekend coding group": {
+        "event": "ryan invited you to join his weekend coding group",
+        "tick": 155,
+        "importance": 8.0,
+        "recency": 0.88,
+        "relevance": 0,
+        "score": 0
+    },
+    "exchanged contacts and promised to meet next Saturday": {
+        "event": "exchanged contacts and promised to meet next Saturday",
+        "tick": 155,
+        "importance": 8.5,
+        "recency": 0.88,
+        "relevance": 0,
+        "score": 0
+    },
+    "made a fresh salad after grocery shopping": {
+        "event": "made a fresh salad after grocery shopping",
+        "tick": 156,
+        "importance": 7.5,
+        "recency": 0.89,
+        "relevance": 0,
+        "score": 0
+    },
+    "messaged alex and ryan about forming a casual coding meetup group": {
+        "event": "messaged alex and ryan about forming a casual coding meetup group",
+        "tick": 156,
+        "importance": 5.0,
+        "recency": 0.89,
+        "relevance": 0,
+        "score": 0
+    },
+    "reviewed math quiz topics using alice’s shared worksheet": {
+        "event": "reviewed math quiz topics using alice’s shared worksheet",
+        "tick": 157,
+        "importance": 7.0,
+        "recency": 0.9,
+        "relevance": 0,
+        "score": 0
+    },
+    "completed three timed practice questions and checked answers": {
+        "event": "completed three timed practice questions and checked answers",
+        "tick": 157,
+        "importance": 14.5,
+        "recency": 0.9,
+        "relevance": 0,
+        "score": 0
+    },
+    "rewrote your math notes with color-coded formulas": {
+        "event": "rewrote your math notes with color-coded formulas",
+        "tick": 158,
+        "importance": 6.5,
+        "recency": 0.91,
+        "relevance": 0,
+        "score": 0
+    },
+    "sent a thank-you message to alice for the resource sheet": {
+        "event": "sent a thank-you message to alice for the resource sheet",
+        "tick": 158,
+        "importance": 6.0,
+        "recency": 0.91,
+        "relevance": 0,
+        "score": 0
+    },
+    "did spaced repetition quiz using online flashcard app": {
+        "event": "did spaced repetition quiz using online flashcard app",
+        "tick": 159,
+        "importance": 12.0,
+        "recency": 0.92,
+        "relevance": 0,
+        "score": 0
+    },
+    "shared results with jasmine and asked if she wanted to co-review": {
+        "event": "shared results with jasmine and asked if she wanted to co-review",
+        "tick": 159,
+        "importance": 14.0,
+        "recency": 0.92,
+        "relevance": 0,
+        "score": 0
+    },
+    "Study/Homework (All Subjects) at tick 160": {
+        "event": "Study/Homework (All Subjects) at tick 160",
+        "tick": 160,
+        "importance": 16.0,
+        "recency": 0.9299999999999999,
+        "relevance": 0,
+        "score": 0
+    },
+    "Free Time (Gaming, Internet Browsing) at tick 161": {
+        "event": "Free Time (Gaming, Internet Browsing) at tick 161",
+        "tick": 161,
+        "importance": 8.5,
+        "recency": 0.94,
+        "relevance": 0,
+        "score": 0
+    },
+    "Dinner at tick 162": {
+        "event": "Dinner at tick 162",
+        "tick": 162,
+        "importance": 7.0,
+        "recency": 0.95,
+        "relevance": 0,
+        "score": 0
+    },
+    "watched a video on advanced tree traversal algorithms": {
+        "event": "watched a video on advanced tree traversal algorithms",
+        "tick": 163,
+        "importance": 7.0,
         "recency": 0.96,
         "relevance": 0,
         "score": 0
     },
-    "chris messaged group: let’s meet again on Wednesday": {
-        "event": "chris messaged group: let’s meet again on Wednesday",
-        "tick": 20,
-        "importance": 5.5,
-        "recency": 0.97,
-        "relevance": 0,
-        "score": 0
-    },
-    "watched a YouTube video about algorithms": {
-        "event": "watched a YouTube video about algorithms",
-        "tick": 20,
+    "added notes to your study summary file": {
+        "event": "added notes to your study summary file",
+        "tick": 163,
         "importance": 7.0,
+        "recency": 0.96,
+        "relevance": 0,
+        "score": 0
+    },
+    "ryan invited you to join his team for an upcoming hackathon": {
+        "event": "ryan invited you to join his team for an upcoming hackathon",
+        "tick": 164,
+        "importance": 5.0,
         "recency": 0.97,
         "relevance": 0,
         "score": 0
     },
-    "scrolled Reddit for programming memes": {
-        "event": "scrolled Reddit for programming memes",
-        "tick": 21,
-        "importance": 8.5,
+    "you said you'd think about it after the math quiz": {
+        "event": "you said you'd think about it after the math quiz",
+        "tick": 164,
+        "importance": 4.0,
+        "recency": 0.97,
+        "relevance": 0,
+        "score": 0
+    },
+    "browsed your old yearbook photos online and sent one to ryan": {
+        "event": "browsed your old yearbook photos online and sent one to ryan",
+        "tick": 165,
+        "importance": 4.5,
         "recency": 0.98,
         "relevance": 0,
         "score": 0
     },
-    "alex sent an article about effective debugging habits": {
-        "event": "alex sent an article about effective debugging habits",
-        "tick": 21,
+    "laughed about high school fashion choices": {
+        "event": "laughed about high school fashion choices",
+        "tick": 165,
+        "importance": 4.5,
+        "recency": 0.98,
+        "relevance": 0,
+        "score": 0
+    },
+    "messaged ryan and tom about forming a study-review circle": {
+        "event": "messaged ryan and tom about forming a study-review circle",
+        "tick": 166,
+        "importance": 6.5,
+        "recency": 0.99,
+        "relevance": 0,
+        "score": 0
+    },
+    "planned to meet Monday afternoon for joint prep": {
+        "event": "planned to meet Monday afternoon for joint prep",
+        "tick": 166,
         "importance": 9.0,
-        "recency": 0.98,
-        "relevance": 0,
-        "score": 0
-    },
-    "video call with parents, shared your day": {
-        "event": "video call with parents, shared your day",
-        "tick": 22,
-        "importance": 7.5,
         "recency": 0.99,
         "relevance": 0,
         "score": 0
     },
-    "team posted daily progress in shared Notion": {
-        "event": "team posted daily progress in shared Notion",
-        "tick": 22,
-        "importance": 7.5,
-        "recency": 0.99,
-        "relevance": 0,
-        "score": 0
-    },
-    "you wrote a short reflection journal about teamwork experience": {
-        "event": "you wrote a short reflection journal about teamwork experience",
-        "tick": 23,
-        "importance": 15.5,
-        "recency": 1.0,
-        "relevance": 0,
-        "score": 0
-    },
-    "set alarm and prepared clothes for Tuesday": {
-        "event": "set alarm and prepared clothes for Tuesday",
-        "tick": 23,
-        "importance": 7.0,
+    "Sleep Preparation at tick 167": {
+        "event": "Sleep Preparation at tick 167",
+        "tick": 167,
+        "importance": 8.5,
         "recency": 1.0,
         "relevance": 0,
         "score": 0

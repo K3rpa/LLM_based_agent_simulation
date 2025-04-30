@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "What did Updated you share in your shared Google Drive in tick 325?",
+    "tick": 325,
+    "answer": "updated your shared Google Drive folder for Week 3 materials"
+  },
+  {
+    "id": 2,
+    "question": "Who are your teammates in your algorithm Class?",
+    "tick": 10,
+    "answer": "found your Algorithm Class teammate they are tom, brian, chris and alex"
+  },
+  {
+    "id": 3,
+    "question": "What did Ryan share with you in tick 226?",
+    "tick": 226,
+    "answer": "ryan shared a real-world example involving shortest path in delivery networks"
+  },
+  {
+    "id": 4,
+    "question": "What did you agree in tick 252?",
+    "tick": 252,
+    "answer": "talked about math quiz scores and agreed to study together again on Sunday"
+  },
+  {
+    "id": 5,
+    "question": "Who is Alice and what is their background?",
+    "tick": 35,
+    "answer": "alice is a sophomore majoring in mathematics, interested in statistics"
+  },
+  {
+    "id": 6,
+    "question": "what did brian said to replied to the post in tick 238?",
+    "tick": 238,
+    "answer": "he’s on 'low battery mode'"
+  },
+  {
+    "id": 7,
+    "question": "What did After the game, ryan remind you about in tick 281?",
+    "tick": 281,
+    "answer": "after the game, ryan reminded everyone to merge their branches tonight"
+  },
+  {
+    "id": 8,
+    "question": "what did jasmine replied to you in tick 305 when you share stuff with her in tick 305?",
+    "tick": 305,
+    "answer": "shared it with jasmine and she replied that it fits her current mood perfectly"
+  },
+  {
+    "id": 9,
+    "question": "What discussion or group did you join in tick 68?",
+    "tick": 68,
+    "answer": "joined a GitHub repo discussion on assignment optimization"
+  },
+  {
+    "id": 10,
+    "question": "Who did you talk with and what did you talk about in tick 154?",
+    "tick": 154,
+    "answer": "talked with ryan about your high school memories and recent courses"
+  },
+  {
+    "id": 11,
+    "question": "What did Brian share with you in tick 299?",
+    "tick": 299,
+    "answer": "brian shared a helpful visual explanation of dynamic programming overlap"
+  },
+  {
+    "id": 12,
+    "question": "what did you talk about in tick 36?",
+    "tick": 36,
+    "answer": "talked about assignment deadlines and upcoming exams"
+  },
+  {
+    "id": 13,
+    "question": "What did you share in tick 207?",
+    "tick": 207,
+    "answer": "you shared your screen during a mini-demo of your UI component"
+  },
+  {
+    "id": 14,
+    "question": "What did Math professor share with you in tick 35?",
+    "tick": 35,
+    "answer": "math professor shared online resources for calculus practice"
+  },
+  {
+    "id": 15,
+    "question": "What did share with you in tick 113?",
+    "tick": 113,
+    "answer": "shared memes and coding jokes during dinner"
+  },
+  {
+    "id": 16,
+    "question": "Who is David and what is their background?",
+    "tick": 38,
+    "answer": "david is a senior specializing in backend systems, especially Node.js"
+  },
+  {
+    "id": 17,
+    "question": "What did share with you in tick 138?",
+    "tick": 138,
+    "answer": "shared the link with emily and jasmine"
+  },
+  {
+    "id": 18,
+    "question": "Who is Ryan and what is their background?",
+    "tick": 153,
+    "answer": "ryan is a second-year computer engineering student, known for his quick wit and love for hackathons"
+  },
+  {
+    "id": 19,
+    "question": "What did Brian share with you in tick 278?",
+    "tick": 278,
+    "answer": "brian shared his hand-drawn matrix notes which helped simplify your approach"
+  },
+  {
+    "id": 20,
+    "question": "Who is Chris whispered to in tick 226?",
+    "tick": 226,
+    "answer": "chris whispered to emily for clarification"
+  },
+  {
+    "id": 21,
+    "question": "What happened in tick 278?",
+    "tick": 278,
+    "answer": "you helped brian spot a sign mistake in one equation" 
+  },
+  {
+    "id": 22,
+    "question": "What did Professor remind you about in tick 255?",
+    "tick": 255,
+    "answer": "professor reminded the class about Sunday’s milestone deadline"
+  },
+  {
+    "id": 23,
+    "question": "What happened for alex in tick 273?",
+    "tick": 273,
+    "answer": "alex asked a follow-up question that helped clarify the concept for several students"
+  },
+  {
+    "id": 24,
+    "question": "What discussion or group did you join in tick 92?",
+    "tick": 92,
+    "answer": "joined a Discord talk on software internships"
+  },
+  {
+    "id": 25,
+    "question": "What did Roommate made avocado toast and remind you about in tick 152?",
+    "tick": 152,
+    "answer": "roommate made avocado toast and reminded you to buy groceries"
+  },
+  {
+    "id": 26,
+    "question": "What happened in for algorithm professor tick 273?",
+    "tick": 273,
+    "answer": "algorithm professor introduced Floyd-Warshall algorithm with matrix diagrams"
+  },
+  {
+    "id": 27,
+    "question": "What did Jasmine share with you in tick 324?",
+    "tick": 324,
+    "answer": "jasmine shared a revision mindmap for graph theory on Notion"
+  },
+  {
+    "id": 28,
+    "question": "Who did you talk with and what did you talk about in tick 160?",
+    "tick": 160,
+    "answer": "played Minecraft for an hour with ryan and brian, talked about childhood gaming memories over voice chat"
+  },
+  {
+    "id": 29,
+    "question": "What did Tom share with you in tick 13?",
+    "tick": 13,
+    "answer": "tom shared some useful notes on algorithm"
+  },
+  {
+    "id": 30,
+    "question": "Who did you share takeout with in tick 328?",
+    "tick": 328,
+    "answer": "shared takeout with jasmine and kevin in the dorm lounge"
+  }
+]

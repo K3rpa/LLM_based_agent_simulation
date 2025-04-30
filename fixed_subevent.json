@@ -188,5 +188,1185 @@
             "checked LinkedIn for updates on tech internships",
             "relaxed by scrolling through funny coding memes before sleeping"
         ]
+    },
+    "56": {
+        "Wake up, Breakfast": [
+            "woke up to the sound of rain outside the window",
+            "roommate made toast and shared a math meme"
+        ]
+    },
+    "57": {
+        "Algorithm Class": [
+            "algorithm professor reviewed key points from Monday’s lecture",
+            "announced algorithm quiz on recursion scheduled for next Monday"
+        ]
+    },
+    "58": {
+        "Algorithm Class": [
+            "paired with emily from study group for recursion exercises",
+            "worked on algorithm problems related to divide-and-conquer strategy"
+        ]
+    },
+    "59": {
+        "Algorithm Class": [
+            "algorithm professor provided hints for assignment 1",
+            "you, tom, and chris discussed implementation choices for part 2"
+        ]
+    },
+    "60": {
+        "Lunch": [
+            "grabbed lunch with alex at the student union",
+            "talked about whether to use dynamic programming or greedy strategy for part 2"
+        ]
+    },
+    "61": {
+        "Study/Homework (Algorithm, Math)": [
+            "worked on recursive tree traversal problems with alex",
+            "brian suggested an optimization that reduced time complexity"
+        ]
+    },
+    "62": {
+        "Study/Homework (Algorithm, Math)": [
+            "updated algorithm assignment draft with new code snippets",
+            "shared implementation update in the project discord channel"
+        ]
+    },
+    "63": {
+        "Study/Homework (Algorithm, Math)": [
+            "met with tom and chris to debug edge case for input constraints",
+            "alex proposed simplifying test cases before finalizing version"
+        ]
+    },
+    "64": {
+        "Study/Homework (Algorithm, Math)": [
+            "reviewed class notes on recursion depth with john",
+            "alice helped clarify a confusing part of the recurrence relation"
+        ]
+    },
+    "65": {
+        "Study/Homework (Algorithm, Math)": [
+            "took a short break with emily and watched a YouTube algorithm animation"
+        ]
+    },
+    "66": {
+        "Dinner": [
+            "ordered food delivery with roommates to save time",
+            "laughed over a bug that caused infinite recursion"
+        ]
+    },
+    "67": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "played a short match of League of Legends with classmates",
+            "checked Reddit for funny programming jokes"
+        ]
+    },
+    "68": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "watched a video on advanced sorting algorithms",
+            "joined a GitHub repo discussion on assignment optimization"
+        ]
+    },
+    "69": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "emily sent a funny meme to the group chat",
+            "you replied with a stack overflow screenshot"
+        ]
+    },
+    "70": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "read a blog post about competitive programming tips",
+            "shared your solution to assignment part 1 on Notion"
+        ]
+    },
+    "80": {
+        "Wake up, Breakfast": [
+            "woke up slightly late due to staying up debugging code",
+            "roommate made coffee and discussed today's schedule"
+        ]
+    },
+    "81": {
+        "Math Class": [
+            "math professor introduced numerical integration techniques",
+            "assigned practice problems focusing on Simpson’s Rule"
+        ]
+    },
+    "82": {
+        "Math Class": [
+            "group challenge on estimating definite integrals using different methods",
+            "john proposed using midpoint rule for one tricky example"
+        ]
+    },
+    "83": {
+        "Math Class": [
+            "emily raised a question about approximation error, leading to a class discussion",
+            "professor shared an online simulation tool for visualization"
+        ]
+    },
+    "84": {
+        "Lunch": [
+            "ate at the campus food truck with kevin and sophie",
+            "talked about challenges in their UI design implementation"
+        ]
+    },
+    "85": {
+        "Software Engineering Class": [
+            "software engineering professor introduced REST API design",
+            "you and david explored how backend will communicate with frontend"
+        ]
+    },
+    "86": {
+        "Software Engineering Class": [
+            "team reviewed use cases and updated Trello board",
+            "decided to use Express.js for backend API routing"
+        ]
+    },
+    "87": {
+        "Software Engineering Class": [
+            "professor reminded everyone to submit project milestones by Sunday",
+            "discussed testing strategy with kevin and sophie"
+        ]
+    },
+    "88": {
+        "Study/Homework (Software Engineering)": [
+            "david helped optimize your API routes with better structure",
+            "you and sophie debugged a layout rendering issue"
+        ]
+    },
+    "89": {
+        "Study/Homework (Software Engineering)": [
+            "worked on writing unit tests for the backend endpoints",
+            "alex gave feedback on naming conventions in your code"
+        ]
+    },
+    "90": {
+        "Dinner": [
+            "roommates ordered Thai food to celebrate API integration progress",
+            "shared stories from class and laughed over coding memes"
+        ]
+    },
+    "91": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "played a game of Rocket League with chris and brian",
+            "browsed dev.to articles on full-stack development tips"
+        ]
+    },
+    "92": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "joined a Discord talk on software internships",
+            "sophie sent a link to a cool portfolio template"
+        ]
+    },
+    "93": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "edited your LinkedIn profile with new project details",
+            "watched a YouTube tutorial on frontend animations"
+        ]
+    },
+    "94": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "shared screenshots of your app’s UI update with the team",
+            "alex reacted with a thumbs up emoji"
+        ]
+    },
+    "104": {
+        "Wake up, Breakfast": [
+            "woke up to a calendar reminder about algorithm assignment deadline",
+            "quick breakfast while reviewing recursion concepts"
+        ]
+    },
+    "105": {
+        "Algorithm Class": [
+            "algorithm professor held an in-class Q&A on recursion and dynamic programming",
+            "announced that assignment 1 is due by 11:59 PM today"
+        ]
+    },
+    "106": {
+        "Algorithm Class": [
+            "chris shared a question about memoization during class",
+            "professor demonstrated debugging techniques using Python"
+        ]
+    },
+    "107": {
+        "Algorithm Class": [
+            "your team clarified assumptions about input constraints with the professor",
+            "alex suggested final code cleanup before submission"
+        ]
+    },
+    "108": {
+        "Lunch": [
+            "grabbed a sandwich with brian at the engineering cafeteria",
+            "talked about last-minute testing for algorithm assignment"
+        ]
+    },
+    "109": {
+        "Study/Homework (Algorithm, Math)": [
+            "ran multiple test cases for edge conditions with tom and emily",
+            "fixed an infinite loop in recursive case after chris’s suggestion"
+        ]
+    },
+    "110": {
+        "Study/Homework (Algorithm, Math)": [
+            "finalized the README and pushed to GitHub",
+            "submitted assignment 1 to the online portal"
+        ]
+    },
+    "111": {
+        "Study/Homework (Algorithm, Math)": [
+            "team shared submission confirmation in group chat",
+            "brian uploaded a zipped backup in Notion"
+        ]
+    },
+    "112": {
+        "Study/Homework (Algorithm, Math)": [
+            "reviewed math class notes in preparation for Monday’s quiz",
+            "alice created a shared sheet with practice problems"
+        ]
+    },
+    "113": {
+        "Dinner": [
+            "ordered pizza with the team to celebrate finishing assignment 1",
+            "shared memes and coding jokes during dinner"
+        ]
+    },
+    "114": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "played a casual match of Valorant with tom and alex",
+            "browsed a Reddit thread on algorithm time complexity memes"
+        ]
+    },
+    "115": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "emily posted a celebratory message in the discord group",
+            "chris dropped a gif of the team’s success"
+        ]
+    },
+    "116": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "scrolled through GitHub trending projects",
+            "starred a few repos related to algorithms and data visualization"
+        ]
+    },
+    "117": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "talked with alex about potential ideas for next project phase",
+            "reviewed some past year questions shared by professor"
+        ]
+    },
+    "118": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "watched a video breakdown of dynamic programming problems",
+            "updated your Notion task board with upcoming deadlines"
+        ]
+    },
+    "128": {
+        "Wake up, Breakfast": [
+            "woke up later than usual after a long coding session last night",
+            "made French toast and caught up on Discord messages"
+        ]
+    },
+    "129": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "watched a video essay on game design principles",
+            "played a few relaxing rounds of Stardew Valley"
+        ]
+    },
+    "130": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "browsed dev.to articles about developer burnout",
+            "bookmarked a post on creating a personal portfolio"
+        ]
+    },
+    "131": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "watched a live stream of a coding contest",
+            "chatted with emily about future internships"
+        ]
+    },
+    "132": {
+        "Lunch": [
+            "met a new student named jasmine at the campus noodle bar",
+            "talked about your shared interest in data visualization",
+            "decided to study together next week",
+            "jasmine is a first-year data science major, enthusiastic about storytelling with charts and graphs"
+        ]
+    },
+    "133": {
+        "Study/Homework (All Subjects)": [
+            "reviewed math quiz problems with jasmine after lunch",
+            "shared algorithm flashcards via Notion"
+        ]
+    },
+    "134": {
+        "Study/Homework (All Subjects)": [
+            "jasmine introduced you to an interactive graphing tool",
+            "updated your study schedule to include Sunday review session"
+        ]
+    },
+    "135": {
+        "Study/Homework (All Subjects)": [
+            "created a joint Google Doc to track math practice",
+            "planned to meet again next Tuesday before class"
+        ]
+    },
+    "136": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "scrolled through Reddit's /r/learnprogramming",
+            "read a thread about career switching into tech"
+        ]
+    },
+    "137": {
+        "Dinner": [
+            "made ramen with roommates while talking about jasmine",
+            "shared jasmine's graph tool with kevin and sophie"
+        ]
+    },
+    "138": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "watched a documentary on AI-generated art",
+            "shared the link with emily and jasmine"
+        ]
+    },
+    "139": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "started a blog draft on algorithm assignment experience",
+            "got emoji reactions in the Discord group"
+        ]
+    },
+    "140": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "helped brian fix an error in his GitHub repo",
+            "replied to jasmine’s message about charting libraries"
+        ]
+    },
+    "141": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "read a case study on UI/UX failures",
+            "shared funny design mistakes with sophie"
+        ]
+    },
+    "142": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "watched a video breakdown of clean code principles",
+            "updated bookmarks in your personal knowledge base"
+        ]
+    },
+    "152": {
+        "Wake up, Breakfast": [
+            "woke up feeling refreshed after a productive week",
+            "roommate made avocado toast and reminded you to buy groceries"
+        ]
+    },
+    "153": {
+        "Grocery Shopping (Supermarket Visit)": [
+            "browsed the fruit aisle for apples and oranges",
+            "accidentally bumped into a familiar face near the frozen food section",
+            "it was ryan — your old high school friend who just transferred here this semester",
+            "ryan is a second-year computer engineering student, known for his quick wit and love for hackathons"
+        ]
+    },
+    "154": {
+        "Grocery Shopping (Supermarket Visit)": [
+            "talked with ryan about your high school memories and recent courses",
+            "discovered you're both taking algorithms this semester"
+        ]
+    },
+    "155": {
+        "Grocery Shopping (Supermarket Visit)": [
+            "ryan invited you to join his weekend coding group",
+            "exchanged contacts and promised to meet next Saturday"
+        ]
+    },
+    "156": {
+        "Lunch": [
+            "made a fresh salad after grocery shopping",
+            "messaged alex and ryan about forming a casual coding meetup group"
+        ]
+    },
+    "157": {
+        "Study/Homework (All Subjects)": [
+            "reviewed math quiz topics using alice’s shared worksheet",
+            "completed three timed practice questions and checked answers"
+        ]
+    },
+    "158": {
+        "Study/Homework (All Subjects)": [
+            "rewrote your math notes with color-coded formulas",
+            "sent a thank-you message to alice for the resource sheet"
+        ]
+    },
+    "159": {
+        "Study/Homework (All Subjects)": [
+            "did spaced repetition quiz using online flashcard app",
+            "shared results with jasmine and asked if she wanted to co-review"
+        ]
+    },
+    "160": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "played Minecraft for an hour with ryan and brian",
+            "talked about childhood gaming memories over voice chat"
+        ]
+    },
+    "161": {
+        "Dinner": [
+            "cooked stir-fry with jasmine and sophie",
+            "jasmine shared how she visualized her study habits using graphs"
+        ]
+    },
+    "162": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "read a blog post on transitioning from high school to college life",
+            "shared it with ryan as a throwback to your early struggles"
+        ]
+    },
+    "163": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "watched a video on advanced tree traversal algorithms",
+            "added notes to your study summary file"
+        ]
+    },
+    "164": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "ryan invited you to join his team for an upcoming hackathon",
+            "you said you'd think about it after the math quiz"
+        ]
+    },
+    "165": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "browsed your old yearbook photos online and sent one to ryan",
+            "laughed about high school fashion choices"
+        ]
+    },
+    "166": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "messaged ryan and tom about forming a study-review circle",
+            "planned to meet Monday afternoon for joint prep"
+        ]
+    },
+    "176": {
+        "Wake up, Breakfast": [
+            "woke up early to revise before the math quiz",
+            "made toast and reviewed key calculus formulas over breakfast"
+        ]
+    },
+    "177": {
+        "Algorithm Class": [
+            "algorithm professor started a new topic on graph traversal",
+            "emily asked a question about depth-first vs breadth-first search"
+        ]
+    },
+    "178": {
+        "Algorithm Class": [
+            "ryan joined your table group and solved a challenge with you",
+            "you explained DFS implementation using stack recursion"
+        ]
+    },
+    "179": {
+        "Algorithm Class": [
+            "professor announced that assignment 2 will involve pathfinding algorithms",
+            "alex suggested using weighted graphs for project extension"
+        ]
+    },
+    "180": {
+        "Lunch": [
+            "had lunch with jasmine and tom in the courtyard",
+            "jasmine helped quiz you on derivatives for the afternoon test"
+        ]
+    },
+    "181": {
+        "Study/Homework (Algorithm, Math)": [
+            "reviewed jasmine’s quiz notes on differentiation",
+            "created a last-minute checklist of math identities"
+        ]
+    },
+    "182": {
+        "Study/Homework (Algorithm, Math)": [
+            "brian reminded you to bring your calculator to class",
+            "walked together to the lecture hall while reciting integration rules"
+        ]
+    },
+    "183": {
+        "Math Class": [
+            "math professor handed out the quiz sheets at 2:00 PM",
+            "questions focused on chain rule, product rule, and definite integrals"
+        ]
+    },
+    "184": {
+        "Math Class": [
+            "you finished the quiz early and double-checked your answers",
+            "john whispered post-quiz that question 3 had a subtle trick"
+        ]
+    },
+    "185": {
+        "Math Class": [
+            "professor announced results will be posted Wednesday",
+            "emily invited the group for a quick debrief after class"
+        ]
+    },
+    "186": {
+        "Dinner": [
+            "celebrated quiz completion with sushi from the student center",
+            "chatted with sophie and david about your frontend progress"
+        ]
+    },
+    "187": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "played a chill game of Among Us with ryan, alex, and chris",
+            "brian got voted out for being suspicious too early"
+        ]
+    },
+    "188": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "watched a video essay on algorithmic efficiency and Big-O",
+            "shared the link with jasmine for future reference"
+        ]
+    },
+    "189": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "updated your Trello board with assignment 2 tasks",
+            "sophie commented on one card with color scheme suggestions"
+        ]
+    },
+    "190": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "scrolled through Instagram and saw a meme from kevin",
+            "sent a reply sticker referencing the math quiz"
+        ]
+    },
+    "200": {
+        "Wake up, Breakfast": [
+            "woke up feeling sore from sitting too long last night",
+            "roommate burned his toast again and set off the microwave alarm",
+            "saw an email from the professor about a pop quiz",
+            "noticed the clouds were unusually pink this morning"
+        ]
+    },
+    "201": {
+        "Math Class": [
+            "math professor handed out a surprise quiz on integration by parts",
+            "john seemed unprepared and kept tapping his pen nervously",
+            "you remembered jasmine’s hint sheet just in time to help with question 2"
+        ]
+    },
+    "202": {
+        "Math Class": [
+            "a student in the back row fell asleep during the quiz review",
+            "professor joked about calculating how long he’d been unconscious",
+            "you took a photo of the whiteboard notes for later"
+        ]
+    },
+    "203": {
+        "Math Class": [
+            "professor invited students to try solving a bonus proof problem",
+            "you watched emily walk up confidently and solve it step-by-step",
+            "sophie whispered ‘genius’ as everyone applauded lightly"
+        ]
+    },
+    "204": {
+        "Lunch": [
+            "ate sandwiches on the grass with jasmine and ryan",
+            "watched two students rehearse a short skit on the quad",
+            "a squirrel stole part of ryan’s muffin",
+            "talked about organizing a weekend review meetup"
+        ]
+    },
+    "205": {
+        "Software Engineering Class": [
+            "professor introduced front-end state management techniques",
+            "kevin looked confused while glancing between the slides and his code",
+            "you explained how React hooks work during group discussion"
+        ]
+    },
+    "206": {
+        "Software Engineering Class": [
+            "alex asked about Redux vs Context API",
+            "professor drew a diagram that helped clarify data flow",
+            "david joked that he now understands ‘useEffect’ 1% more"
+        ]
+    },
+    "207": {
+        "Software Engineering Class": [
+            "you shared your screen during a mini-demo of your UI component",
+            "professor complimented the responsiveness of your design",
+            "brian clapped a bit too loudly out of nowhere"
+        ]
+    },
+    "208": {
+        "Study/Homework (Software Engineering)": [
+            "paired up with jasmine to refactor your login component",
+            "spotted a naming bug that was causing a re-render loop",
+            "jasmine drew a small diagram to show you a cleaner approach"
+        ]
+    },
+    "209": {
+        "Study/Homework (Software Engineering)": [
+            "found a VSCode extension that helped auto-format your styles",
+            "brian sent a meme about tailwind class soup",
+            "a stranger walked by the library table and complimented your UI sketch"
+        ]
+    },
+    "210": {
+        "Dinner": [
+            "cooked veggie stir-fry with sophie and david in the dorm kitchen",
+            "someone on the 2nd floor played violin while you ate",
+            "talked about the upcoming hackathon invitation from ryan"
+        ]
+    },
+    "211": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "played Scribbl.io with alex, chris, and brian",
+            "you kept drawing badly and made everyone laugh",
+            "saw a Discord ping from ryan about the project meeting"
+        ]
+    },
+    "212": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "watched a short documentary about Google’s early days",
+            "ryan posted a blog about debugging nightmares",
+            "shared it with jasmine and got a smile reaction"
+        ]
+    },
+    "213": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "cleaned up your desktop files for the first time in weeks",
+            "noticed an old folder named 'final_version_v8_REALLY_FINAL'",
+            "sent a photo of it to brian who replied with 'same energy'"
+        ]
+    },
+    "214": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "read a long Twitter thread on how to stay focused during finals",
+            "noted a few tips into your Notion routine tracker"
+        ]
+    },
+    "224": {
+        "Wake up, Breakfast": [
+            "woke up feeling a bit groggy after staying up late revising UI design",
+            "roommate played a podcast too loudly while brushing his teeth",
+            "read a reminder email about tomorrow’s project checkpoint",
+            "watched the sky gradually brighten through the dorm window"
+        ]
+    },
+    "225": {
+        "Algorithm Class": [
+            "algorithm professor introduced Dijkstra’s algorithm with a whiteboard example",
+            "you noticed brian nodding along while scribbling notes at high speed",
+            "alex raised a question about priority queues and was redirected to office hours"
+        ]
+    },
+    "226": {
+        "Algorithm Class": [
+            "ryan shared a real-world example involving shortest path in delivery networks",
+            "professor paused to sketch a city graph as a follow-up",
+            "chris appeared visibly confused and whispered to emily for clarification"
+        ]
+    },
+    "227": {
+        "Algorithm Class": [
+            "you partnered with emily to walk through the sample input from class",
+            "found a subtle indexing error in the sample code posted on the class forum",
+            "professor encouraged students to report any unclear edge cases"
+        ]
+    },
+    "228": {
+        "Lunch": [
+            "met jasmine and ryan at the computer science courtyard tables",
+            "jasmine shared a new sketch of her data viz project",
+            "watched a group of students practicing dance choreography nearby"
+        ]
+    },
+    "229": {
+        "Study/Homework (Algorithm, Math)": [
+            "you and ryan attempted two graph traversal problems using pseudocode",
+            "he suggested testing edge weights with zero-cost paths",
+            "a loud group entered the study lounge but left after five minutes"
+        ]
+    },
+    "230": {
+        "Study/Homework (Algorithm, Math)": [
+            "emily joined and proposed writing reusable pathfinding functions",
+            "you organized your code into modular sections after discussing with her",
+            "alex showed up briefly and said he’d share his test case template later"
+        ]
+    },
+    "231": {
+        "Study/Homework (Algorithm, Math)": [
+            "you realized your graph class lacked proper initialization handling",
+            "brian caught a bug in your loop condition while reviewing your notebook",
+            "you both agreed to re-test all sample inputs before Thursday"
+        ]
+    },
+    "232": {
+        "Dinner": [
+            "shared dinner with david, sophie, and tom in the main cafeteria",
+            "talked about team project progress and agreed to merge branches tonight",
+            "observed a nearby group celebrating someone’s birthday with cupcakes"
+        ]
+    },
+    "233": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "joined an online drawing game with jasmine, ryan, and alex",
+            "jasmine’s drawing of a 'router' got mistaken for a crab and caused laughter",
+            "brian kept misguessing every item and claimed lag as an excuse"
+        ]
+    },
+    "234": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "watched a YouTube series on famous graph algorithms",
+            "shared an episode link with emily who said she’d watch it during her commute",
+            "checked your to-do list and realized your weekly reflection was overdue"
+        ]
+    },
+    "235": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "wrote a short blog entry summarizing your understanding of graph traversal",
+            "uploaded it to Notion and got quick comments from tom and sophie",
+            "noticed that one of your examples had a mistake and fixed it immediately"
+        ]
+    },
+    "236": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "ryan posted a poll in Discord about Saturday’s study meetup time",
+            "you voted for the earlier option and encouraged alex to join too",
+            "scanned through a Reddit thread on university life productivity hacks"
+        ]
+    },
+    "237": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "cleaned up your class folders and labeled algorithm files by topic",
+            "read jasmine’s feedback on your latest data structure diagram",
+            "added an annotation layer based on her suggestion"
+        ]
+    },
+    "238": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "read a blog post about academic burnout and warning signs",
+            "shared the post with brian who replied that he’s on 'low battery mode'",
+            "decided to set a reminder to take a real break over the weekend"
+        ]
+    },
+    "248": {
+        "Wake up, Breakfast": [
+            "woke up to a calendar alert about project checkpoint submission",
+            "roommate was practicing a group presentation while still in pajamas",
+            "made oatmeal and read overnight messages in the project group chat"
+        ]
+    },
+    "249": {
+        "Math Class": [
+            "math professor reviewed quiz results and handed back papers",
+            "you scored above average and felt relieved",
+            "noticed that alex looked disappointed and folded his paper quietly"
+        ]
+    },
+    "250": {
+        "Math Class": [
+            "professor introduced partial fractions decomposition",
+            "sophie answered a challenging problem correctly on the board",
+            "someone’s phone rang loudly in the middle of class and they left in embarrassment"
+        ]
+    },
+    "251": {
+        "Math Class": [
+            "you worked through in-class practice problems with jasmine",
+            "she pointed out a mistake in one of your signs and helped you fix it",
+            "the projector flickered briefly before restarting automatically"
+        ]
+    },
+    "252": {
+        "Lunch": [
+            "had lunch at the food court with brian, tom, and sophie",
+            "talked about math quiz scores and agreed to study together again on Sunday",
+            "watched a student rehearse a speech at the table nearby"
+        ]
+    },
+    "253": {
+        "Software Engineering Class": [
+            "professor introduced continuous integration tools",
+            "you showed kevin how to configure GitHub Actions for the frontend repo",
+            "someone in the back row accidentally closed their laptop lid and groaned loudly"
+        ]
+    },
+    "254": {
+        "Software Engineering Class": [
+            "emily asked about deployment pipelines and static hosting",
+            "professor walked through a live demo with build errors and debugged it in real-time",
+            "you noted down steps to replicate the process later"
+        ]
+    },
+    "255": {
+        "Software Engineering Class": [
+            "you joined david and jasmine in testing a new layout component",
+            "found a flexbox bug that misaligned the header on mobile view",
+            "professor reminded the class about Sunday’s milestone deadline"
+        ]
+    },
+    "256": {
+        "Study/Homework (Software Engineering)": [
+            "reviewed GitHub issues list and assigned yourself two small tasks",
+            "updated project readme with setup instructions based on kevin’s notes",
+            "noticed that brian had already closed three issues this morning"
+        ]
+    },
+    "257": {
+        "Study/Homework (Software Engineering)": [
+            "worked with jasmine on resolving a CSS specificity problem",
+            "she explained a cascading rule you had overlooked",
+            "ryan posted a reminder in Discord to commit by 5:00 PM"
+        ]
+    },
+    "258": {
+        "Dinner": [
+            "ate with emily and alex in the student lounge",
+            "talked about summer internship applications and deadlines",
+            "someone spilled soda on the floor and quickly cleaned it up with napkins"
+        ]
+    },
+    "259": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "played a quick round of Fall Guys with tom and brian",
+            "brian kept yelling when falling off platforms, making everyone laugh",
+            "you finished in third place and took a screenshot"
+        ]
+    },
+    "260": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "read a case study about large-scale React apps",
+            "shared it with sophie who replied she’s building something similar",
+            "you bookmarked the post for future reference"
+        ]
+    },
+    "261": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "cleaned up your local repository and pushed a commit",
+            "saw that kevin commented on your pull request with a question",
+            "replied with clarification and linked a code snippet"
+        ]
+    },
+    "262": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "joined a short Discord voice chat with jasmine, ryan, and alex",
+            "talked about project progress and weekend availability",
+            "ryan joked about renaming every final version to 'final_final_this_one'"
+        ]
+    },
+    "272": {
+        "Wake up, Breakfast": [
+            "woke up with a slight headache, probably from staying online too long",
+            "roommate was already gone for an early lab session",
+            "read ryan’s reminder message about tonight’s code freeze",
+            "toasted a bagel and sipped tea while reviewing today’s checklist"
+        ]
+    },
+    "273": {
+        "Algorithm Class": [
+            "algorithm professor introduced Floyd-Warshall algorithm with matrix diagrams",
+            "you found the transition from Dijkstra’s approach a bit confusing",
+            "alex asked a follow-up question that helped clarify the concept for several students"
+        ]
+    },
+    "274": {
+        "Algorithm Class": [
+            "you worked through a short worksheet with brian and chris",
+            "brian accidentally skipped a row in the matrix and had to redo half the work",
+            "professor walked by and praised your group for clear step annotations"
+        ]
+    },
+    "275": {
+        "Algorithm Class": [
+            "a student near the window was sketching game maps based on the algorithm",
+            "jasmine quietly laughed when you called out a typo on the projected slide",
+            "the projector briefly froze and restarted mid-example"
+        ]
+    },
+    "276": {
+        "Lunch": [
+            "joined alex, sophie, and kevin for lunch outside",
+            "talked about the upcoming software engineering demo video",
+            "someone in the quad was giving out free coffee samples"
+        ]
+    },
+    "277": {
+        "Study/Homework (Algorithm, Math)": [
+            "reviewed matrix transformation practice problems with emily",
+            "realized you had misunderstood a base case and corrected it",
+            "a campus tour group passed by your study table mid-session"
+        ]
+    },
+    "278": {
+        "Study/Homework (Algorithm, Math)": [
+            "brian shared his hand-drawn matrix notes which helped simplify your approach",
+            "you helped him spot a sign mistake in one equation",
+            "alex joined the table and showed a shortcut trick for row updates"
+        ]
+    },
+    "279": {
+        "Study/Homework (Algorithm, Math)": [
+            "created a joint Google Doc to summarize algorithm variations for next week’s quiz",
+            "ryan added three example graphs from his recent lab assignment",
+            "someone sneezed loudly in the quiet zone, startling everyone"
+        ]
+    },
+    "280": {
+        "Dinner": [
+            "ordered noodles with jasmine and emily from a campus food truck",
+            "shared stories about the toughest coding bug encountered this week",
+            "someone nearby was playing lo-fi music on a portable speaker"
+        ]
+    },
+    "281": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "played a strategy board game online with ryan, brian, and chris",
+            "brian kept trying to build a loop in the rules until everyone called him out",
+            "after the game, ryan reminded everyone to merge their branches tonight"
+        ]
+    },
+    "282": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "watched a YouTube breakdown of competitive algorithmic problems",
+            "bookmarked a segment on dynamic programming optimizations",
+            "emily messaged saying she’s reviewing the shared doc tonight"
+        ]
+    },
+    "283": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "pushed your latest commits to GitHub and closed two issues",
+            "checked jasmine’s comments and made small tweaks to your CSS",
+            "replied to david’s code question with a link to official docs"
+        ]
+    },
+    "284": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "joined a short Discord voice chat with alex, kevin, and tom",
+            "discussed software demo presentation timing for next Monday",
+            "alex joked about dressing up to look more ‘professional’"
+        ]
+    },
+    "285": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "scanned through your Notion project tracker and checked off major tasks",
+            "wrote a short paragraph reflection on this week’s workload",
+            "heard light rain starting outside and closed your window"
+        ]
+    },
+    "286": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "responded to an email from your professor about peer feedback participation",
+            "scheduled Sunday evening for a full project review",
+            "took a short walk in the hallway to stretch after hours at the desk"
+        ]
+    },
+    "296": {
+        "Wake up, Breakfast": [
+            "woke up later than usual and stretched for a few minutes",
+            "roommate was already on a video call with his lab group",
+            "made pancakes and listened to a podcast about software career paths",
+            "the hallway outside was unusually quiet for a Saturday morning"
+        ]
+    },
+    "297": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "played a puzzle game on your phone while finishing breakfast",
+            "saw a photo alex posted of his cat sitting on his keyboard",
+            "ryan pinged everyone about reviewing the weekend project checklist"
+        ]
+    },
+    "298": {
+        "Study/Homework (All Subjects)": [
+            "reviewed upcoming algorithm quiz topics in your Notion workspace",
+            "highlighted concepts you struggled with last time like Bellman-Ford",
+            "jasmine shared a PDF summary she compiled with examples",
+            "a gust of wind slammed a nearby window shut and startled you"
+        ]
+    },
+    "299": {
+        "Study/Homework (All Subjects)": [
+            "joined a virtual review session with brian, emily, and alex",
+            "brian shared a helpful visual explanation of dynamic programming overlap",
+            "you took notes in a shared Google Doc for future reference"
+        ]
+    },
+    "300": {
+        "Lunch": [
+            "grabbed a sandwich from the convenience store downstairs",
+            "ate outside near the library fountain with ryan and sophie",
+            "watched a club setting up a small stage for an afternoon performance"
+        ]
+    },
+    "301": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "sat on the grass to watch a live poetry reading by literature students",
+            "bumped into someone from your freshman orientation group",
+            "talked briefly about how fast the semester is flying by"
+        ]
+    },
+    "302": {
+        "Study/Homework (Software Engineering)": [
+            "tested your component for mobile compatibility",
+            "noticed the navbar collapsed improperly on smaller screens",
+            "shared screenshots in Discord and got quick feedback from david"
+        ]
+    },
+    "303": {
+        "Study/Homework (Software Engineering)": [
+            "refactored your CSS layout using flexbox suggestions from sophie",
+            "cleaned up unused files and improved accessibility labels",
+            "a fire alarm test briefly interrupted your workflow"
+        ]
+    },
+    "304": {
+        "Dinner": [
+            "ate dinner with kevin and alex in the dining hall",
+            "talked about how everyone plans to present Monday’s software demo",
+            "noticed someone dropped a whole tray of food and got quick help from others"
+        ]
+    },
+    "305": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "watched a video essay on managing long-term coding projects",
+            "shared it with jasmine and she replied that it fits her current mood perfectly",
+            "updated your Notion dashboard for Week 3 preparation"
+        ]
+    },
+    "306": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "browsed through your old photo album from high school",
+            "sent ryan an old group photo and laughed about how different everyone looked",
+            "ryan responded with a sticker of someone panicking with a stack of books"
+        ]
+    },
+    "307": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "took a 20-minute walk around campus to clear your head",
+            "saw students practicing choreography near the auditorium entrance",
+            "passed by a whiteboard covered in math doodles from a previous study group"
+        ]
+    },
+    "308": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "joined a Discord audio room where brian was playing jazz quietly while coding",
+            "talked with chris about the difference between code quality and speed",
+            "you both agreed to review each other’s pull requests tomorrow"
+        ]
+    },
+    "309": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "reviewed last week's weekly reflection and added three new goals",
+            "categorized them under project, academics, and mental health",
+            "set up a Pomodoro timer template for next week’s study blocks"
+        ]
+    },
+    "310": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "replied to a professor’s Canvas post about peer review deadlines",
+            "noticed that your project repo had received a star from an external viewer",
+            "took that as motivation to refine your code formatting tomorrow"
+        ]
+    },
+    "320": {
+        "Wake up, Breakfast": [
+            "woke up to sunlight coming through half-closed blinds",
+            "roommate was listening to classical music while folding laundry",
+            "made scrambled eggs and reviewed your weekly schedule",
+            "read a message from ryan about demo prep checklist"
+        ]
+    },
+    "321": {
+        "Grocery Shopping (Supermarket Visit)": [
+            "went to the local supermarket to restock on snacks and tea",
+            "ran into emily in the cereal aisle and discussed the upcoming software demo",
+            "noticed a family with two kids struggling to choose between cookie brands"
+        ]
+    },
+    "322": {
+        "Grocery Shopping (Supermarket Visit)": [
+            "helped alex find oat milk for his recipe project",
+            "picked up a frozen meal after realizing you’d likely code through dinner",
+            "watched a cashier manage a long line efficiently with small talk"
+        ]
+    },
+    "323": {
+        "Lunch": [
+            "ate lunch on a shaded bench near the science building",
+            "saw sophie sketching layout designs on her tablet",
+            "talked briefly about balancing design creativity with usability"
+        ]
+    },
+    "324": {
+        "Study/Homework (All Subjects)": [
+            "organized your algorithm flashcards into categories by topic",
+            "jasmine shared a revision mindmap for graph theory on Notion",
+            "added your own notes to clarify shortest path variants"
+        ]
+    },
+    "325": {
+        "Study/Homework (All Subjects)": [
+            "created a mini quiz for your study group based on Monday’s topics",
+            "brian sent a sample solution to last semester’s challenge question",
+            "updated your shared Google Drive folder for Week 3 materials"
+        ]
+    },
+    "326": {
+        "Study/Homework (Software Engineering)": [
+            "refined your demo presentation script and practiced aloud",
+            "noticed your transitions were too long and trimmed them",
+            "ryan commented on your preview with a suggestion to add a loading animation"
+        ]
+    },
+    "327": {
+        "Study/Homework (Software Engineering)": [
+            "ran final tests on the frontend and fixed one overflow issue",
+            "alex merged your pull request with a note: 'smooth and clean'",
+            "you updated the deployment link in the group chat"
+        ]
+    },
+    "328": {
+        "Dinner": [
+            "shared takeout with jasmine and kevin in the dorm lounge",
+            "discussed how to handle Q&A during tomorrow’s demo session",
+            "someone nearby was playing soft piano music on a Bluetooth speaker"
+        ]
+    },
+    "329": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "watched a relaxing documentary about architecture and symmetry",
+            "browsed portfolio sites for inspiration on your future internship page",
+            "emily shared a calming lo-fi playlist that you added to your favorites"
+        ]
+    },
+    "330": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "joined ryan, brian, and chris for a quick round of online trivia",
+            "most questions were tech-themed and sparked a discussion on Stack Overflow history",
+            "laughed at how brian thought Python was created in 2008"
+        ]
+    },
+    "331": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "scanned your Notion reflection template and began filling out highlights of the week",
+            "wrote down one academic, one personal, and one social success",
+            "reminded yourself to maintain better sleep consistency next week"
+        ]
+    },
+    "332": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "cleaned your desk and finally organized loose index cards",
+            "took a photo of your tidy workspace and sent it to the study group for fun",
+            "ryan replied that it looked like a catalog image"
+        ]
+    },
+    "333": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "reviewed Monday's schedule and packed your bag",
+            "charged your laptop and prepared your demo presentation notes",
+            "set three alarms just in case"
+        ]
+    },
+    "334": {
+        "Free Time (Gaming, Internet Browsing)": [
+            "sent a good luck message to the project team",
+            "listened to a short meditation track before sleeping",
+            "turned off notifications for the night to avoid stress"
+        ]
     }
+
 }
