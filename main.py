@@ -31,7 +31,8 @@ def main():
     days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
     total_days = len(days)
 
-    run_tick = 168
+    #run_tick = 168
+    run_tick = 335
     for global_tick in range(run_tick):
         current_day_index = global_tick // 24
         curtick = global_tick % 24

@@ -20,9 +20,49 @@ class Memory:
         self.capacity = capacity
         self.name = name
         self.memory: Dict[str, Dict[str, Any]] = OrderedDict()
+        self.semantic_memory: Dict[str, Dict[str, Any]] = OrderedDict()
+        self.procedural_memory: Dict[str, Dict[str, Any]] = OrderedDict()
+
         self.system_role = self.load_file("systemrole.txt")
+#####################################Episodic Memory##################################    
         self.system_role_embedding = self.get_embedding(self.system_role)
-    
+
+#####################################Semantic Memory##################################    
+        semantic_path = "semantic.json"
+
+        with open(semantic_path, "r", encoding="utf-8") as f:
+            semantic_data = json.load(f)
+        for entry_id, entry in semantic_data.items():
+            text = entry["text"]
+            embedding = self.get_embedding(text)
+
+            self.semantic_memory[entry_id] = {
+                "id": entry_id,
+                "text": text,
+                "embedding": embedding,
+                "strength": entry.get("strength", 1.0)
+            }
+#####################################Procedural Memory##################################    
+        procedural_path = "procedural.json"
+
+        with open(procedural_path, "r", encoding="utf-8") as f:
+            procedural_data = json.load(f)
+        for entry_id, entry in procedural_data.items():
+            text = entry["text"]
+            embedding = self.get_embedding(text)
+
+            self.procedural_memory[entry_id] = {
+                "id": entry_id,
+                "text": text,
+                "embedding": embedding
+            }
+
+
+
+
+
+
+#####################################Episodic Memory##################################    
     def calculate_importance(self, event: str,  curtick: int, tick: int) -> float:
         system_role = self.load_file("systemrole.txt")
         time_passed = curtick - tick
@@ -53,6 +93,74 @@ class Memory:
             return 1.0
         return importance_score
     
+#####################################Semantic Memory##################################    
+    # def calculate_importance(self, event: str,  curtick: int, tick: int) -> float:
+    #     system_role = self.load_file("systemrole.txt")
+    #     time_passed = curtick - tick
+
+    #     prompt = (
+    #         f"On a scale from 1 to 20, rate how important the following event is to you:\n"
+    #         f"Event: {event}\n"
+    #         f"Now it is tick {curtick}. This event was recorded at tick {tick}.\n"
+    #         f"It has been {time_passed} ticks since the event was recorded.\n"
+    #         f"It may come from repeated experiences or events you've encountered before.\n"
+    #         f"Only provide a single float number between 1 and 20, where 1 means not important at all, and 20 means extremely important to your beliefs or decision-making.\n"
+    #         f"need exactly number, nothing else. such answer could be 3"
+    #     )
+    #     classification_context = [
+    #         {"role": "system", "content": system_role},
+    #         {"role": "user", "content": prompt}
+    #     ]
+
+    #     try:
+    #         response = client.chat.completions.create(
+    #             model="gpt-3.5-turbo",
+    #             messages=classification_context
+    #         )
+    #         result = response.choices[0].message.content.strip()
+    #         #print(result)
+    #         importance_score = float(result)
+    #     except Exception as e:
+    #         print(f"Error calculating importance: {e}")
+    #         return 1.0
+    #     return importance_score
+#####################################Procedural Memory##################################    
+    # def calculate_importance(self, event: str,  curtick: int, tick: int) -> float:
+    #     system_role = self.load_file("systemrole.txt")
+    #     time_passed = curtick - tick
+
+    #     prompt = (
+    #         f"On a scale from 1 to 20, rate how important the following event is to you:\n"
+    #         f"Event: {event}\n"
+    #         f"Now it is tick {curtick}. This event was recorded at tick {tick}.\n"
+    #         f"It has been {time_passed} ticks since the event was recorded.\n"
+    #         f"It is something you have done repeatedly in the past.\n"
+    #         f"Only provide a single float number between 1 and 20, where 1 means it barely affects your routine, and 20 means it's a core.\n"
+    #         f"need exactly number, nothing else. such answer could be 3"
+    #     )
+    #     classification_context = [
+    #         {"role": "system", "content": system_role},
+    #         {"role": "user", "content": prompt}
+    #     ]
+
+    #     try:
+    #         response = client.chat.completions.create(
+    #             model="gpt-3.5-turbo",
+    #             messages=classification_context
+    #         )
+    #         result = response.choices[0].message.content.strip()
+    #         #print(result)
+    #         importance_score = float(result)
+    #     except Exception as e:
+    #         print(f"Error calculating importance: {e}")
+    #         return 1.0
+    #     return importance_score
+
+
+
+
+
+
     def get_embedding(self, text: str) -> List[float]:
         try:
             response = client.embeddings.create(
@@ -64,6 +172,8 @@ class Memory:
         except Exception as e:
             print(f"Error generating embedding: {e}")
             return []
+#####################################Episodic Memory##################################    
+
     def calculate_similarity(self, emb1: List[float], emb2: List[float]) -> float:
         if not emb1 or not emb2:
             return 0.0
@@ -78,7 +188,32 @@ class Memory:
         event_embedding = self.get_embedding(event)
         relevance_score = self.calculate_similarity(self.system_role_embedding, event_embedding)
         return relevance_score
-    
+#####################################Semantic Memory##################################    
+    # def calculate_relevance(self, event: str, tick: int) -> float:
+    #     event_embedding = self.get_embedding(event)
+
+    #     max_similarity = 0.0
+    #     for entry in  self.semantic_memory.values():
+    #         semantic_embedding = entry["embedding"]
+    #         sim = self.calculate_similarity(event_embedding, semantic_embedding)
+    #         max_similarity = max(max_similarity, sim)
+
+    #     return max_similarity
+#####################################Procedural Memory##################################    
+    # def calculate_relevance(self, event: str, tick: int) -> float:
+    #     event_embedding = self.get_embedding(event)
+
+    #     max_similarity = 0.0
+    #     for entry in  self.procedural_memory.values():
+    #         procedural_embedding = entry["embedding"]
+    #         sim = self.calculate_similarity(event_embedding, procedural_embedding)
+    #         max_similarity = max(max_similarity, sim)
+
+    #     return 1 - max_similarity
+
+
+
+
     def calculate_recency(self, curtick: int, tick: int) -> float:
         recency = 1 - ((curtick - tick) / 100)
         return max(0.01, recency)
@@ -167,12 +302,12 @@ class Memory:
         return dict(self.memory)
 
 #def main():
-   #A = Memory(5, "A")
+    #A = Memory(5, "A")
     #B = Memory(5, "B")
     #C = Memory(5, "long_term_memory")
     #event = "Tommy asking you to play video game with him today at tick 9."
     #importance_score = A.calculate_importance(event, curtick=8, tick=1)
-   # print(f"Importance Score: {importance_score}")
+    #print(f"Importance Score: {importance_score}")
     #event = "Tommy asking you to play video game with him today at tick 9."
     #relevance_score = A.calculate_relevance(event, tick=1)
     #print(f"Relevance Score: {relevance_score}")
@@ -197,5 +332,5 @@ class Memory:
     #B.migrate(C, current_tick=20)
     #C.print_memory()
     
-#if __name__ == "__main__":
-    #main()
+# if __name__ == "__main__":
+#     main()
