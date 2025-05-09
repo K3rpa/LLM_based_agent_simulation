@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "question": "You helped your teammate debug a difficult bug. What might happen in the future?",
+    "predicted_answer": "You might gain more confidence in your programming skills and be recognized for your problem-solving abilities.",
+    "similarity_scores": [
+      0.38836271255684,
+      0.5541086001070488,
+      0.31264445707960437,
+      0.3122433791285748,
+      0.38863700536454104
+    ],
+    "max_similarity": 0.5541,
+    "final_score": 0.75
+  },
+  {
+    "id": 2,
+    "question": "You shared useful notes with your team. What might they do next?",
+    "predicted_answer": "They might review the notes and discuss how to incorporate the information into their project or study plan.",
+    "similarity_scores": [
+      0.36833633603507276,
+      0.28467867107113093,
+      0.41947186159821187,
+      0.2575327842068311,
+      0.4328531567447205
+    ],
+    "max_similarity": 0.4329,
+    "final_score": 0.75
+  },
+  {
+    "id": 3,
+    "question": "You played a game with your teammate in free time. What could this lead to?",
+    "predicted_answer": "This could lead to improved teamwork and collaboration skills with your teammate.",
+    "similarity_scores": [
+      0.384357784899669,
+      0.2474282155718034,
+      0.6643690965325566,
+      0.7243415999625646,
+      0.43095937163035913
+    ],
+    "max_similarity": 0.7243,
+    "final_score": 0.75
+  },
+  {
+    "id": 4,
+    "question": "You joined a Discord group to discuss a class project. What might happen next?",
+    "predicted_answer": "You might feel nervous about actively participating in the group discussion but eventually contribute your insights and ideas.",
+    "similarity_scores": [
+      0.33034816946858825,
+      0.31457307344268637,
+      0.4174182186083254,
+      0.35558663024758164,
+      0.269523410167965
+    ],
+    "max_similarity": 0.4174,
+    "final_score": 0.75
+  },
+  {
+    "id": 5,
+    "question": "You ate lunch with your teammate and talked about school. What might this lead to?",
+    "predicted_answer": "This might lead to better teamwork and collaboration on school projects.",
+    "similarity_scores": [
+      0.4842553859486185,
+      0.4421871600345332,
+      0.3243989222389052,
+      0.364168263980133,
+      0.39144182790689985
+    ],
+    "max_similarity": 0.4843,
+    "final_score": 0.75
+  },
+  {
+    "id": 6,
+    "question": "You helped someone fix a problem today. What might happen next time you need help?",
+    "predicted_answer": "I might struggle to ask for help due to my shyness and fear of reaching out to people.",
+    "similarity_scores": [
+      0.3179906788947004,
+      0.2649211360959032,
+      0.3856414888843849,
+      0.24200087482788832,
+      0.23617595438393205
+    ],
+    "max_similarity": 0.3856,
+    "final_score": 0.75
+  },
+  {
+    "id": 7,
+    "question": "You joined a new study group and shared your notes. What could happen next?",
+    "predicted_answer": "Your study group members may ask for further clarification or discuss topics in more detail.",
+    "similarity_scores": [
+      0.3958264667987672,
+      0.45211748048959943,
+      0.508627464159841,
+      0.1761886233496353,
+      0.33780369836775
+    ],
+    "max_similarity": 0.5086,
+    "final_score": 0.75
+  },
+  {
+    "id": 8,
+    "question": "You and your friend laughed over a bug during dinner. What might happen in future work?",
+    "predicted_answer": "You might remember the bug and find it amusing, creating a shared inside joke that lightens the mood during future stressful work situations.",
+    "similarity_scores": [
+      0.31693153199052904,
+      0.3452926862248657,
+      0.3392933450091691,
+      0.17844770352424694,
+      0.47313060513546706
+    ],
+    "max_similarity": 0.4731,
+    "final_score": 0.75
+  },
+  {
+    "id": 9,
+    "question": "You gave someone feedback on their code. What could be the outcome?",
+    "predicted_answer": "The outcome could be that the person improves their code based on your feedback.",
+    "similarity_scores": [
+      0.5651829519747262,
+      0.36569842313490153,
+      0.5744794161973965,
+      0.27948034405976807,
+      0.4985873232070115
+    ],
+    "max_similarity": 0.5745,
+    "final_score": 0.75
+  },
+  {
+    "id": 10,
+    "question": "You studied with a classmate before the quiz. What might happen after the quiz?",
+    "predicted_answer": "After the quiz, you might discuss the quiz questions and answers with your classmate.",
+    "similarity_scores": [
+      0.4285257773793535,
+      0.2697988449539035,
+      0.1590476977519304,
+      0.3305597502525842,
+      0.273430372875182
+    ],
+    "max_similarity": 0.4285,
+    "final_score": 0.75
+  },
+  {
+    "average_similarity_score": 0.75
+  }
+]

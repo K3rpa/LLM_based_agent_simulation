@@ -1,0 +1,402 @@
+{
+    "Free Time (Gaming, Internet Browsing) at tick 298": {
+        "event": "Free Time (Gaming, Internet Browsing) at tick 298",
+        "tick": 298,
+        "importance": 7.5,
+        "recency": 0.87,
+        "relevance": 0.25737810549510975,
+        "score": 0.16829999999999998
+    },
+    "talked with alex about potential ideas for next project phase": {
+        "event": "talked with alex about potential ideas for next project phase",
+        "tick": 117,
+        "importance": 8.5,
+        "recency": 0.01,
+        "relevance": 0.22983962306479733,
+        "score": 0.1666
+    },
+    "you scored above average and felt relieved": {
+        "event": "you scored above average and felt relieved",
+        "tick": 249,
+        "importance": 8.0,
+        "recency": 0.38,
+        "relevance": 0.2465113048523795,
+        "score": 0.16169999999999998
+    },
+    "Study/Homework (Algorithm, Math) at tick 281": {
+        "event": "Study/Homework (Algorithm, Math) at tick 281",
+        "tick": 281,
+        "importance": 17.0,
+        "recency": 0.7,
+        "relevance": 0.3054643534766278,
+        "score": 0.1598
+    },
+    "you explained DFS implementation using stack recursion": {
+        "event": "you explained DFS implementation using stack recursion",
+        "tick": 178,
+        "importance": 6.0,
+        "recency": 0.01,
+        "relevance": 0.20647586355576986,
+        "score": 0.1584
+    },
+    "a student in the back row fell asleep during the quiz review": {
+        "event": "a student in the back row fell asleep during the quiz review",
+        "tick": 202,
+        "importance": 6.0,
+        "recency": 0.01,
+        "relevance": 0.3420615441512528,
+        "score": 0.1584
+    },
+    "checked LinkedIn for updates on tech internships": {
+        "event": "checked LinkedIn for updates on tech internships",
+        "tick": 46,
+        "importance": 8.5,
+        "recency": 0.01,
+        "relevance": 0.20208769865939655,
+        "score": 0.15660000000000002
+    },
+    "Study/Homework (All Subjects) at tick 303": {
+        "event": "Study/Homework (All Subjects) at tick 303",
+        "tick": 303,
+        "importance": 18.5,
+        "recency": 0.92,
+        "relevance": 0.3614845383946671,
+        "score": 0.1564
+    },
+    "Study/Homework (All Subjects) at tick 302": {
+        "event": "Study/Homework (All Subjects) at tick 302",
+        "tick": 302,
+        "importance": 17.0,
+        "recency": 0.91,
+        "relevance": 0.354841160779926,
+        "score": 0.1547
+    },
+    "professor shared an online simulation tool for visualization": {
+        "event": "professor shared an online simulation tool for visualization",
+        "tick": 83,
+        "importance": 17.0,
+        "recency": 0.01,
+        "relevance": 0.3928777495970752,
+        "score": 0.15
+    },
+    "found a subtle indexing error in the sample code posted on the class forum": {
+        "event": "found a subtle indexing error in the sample code posted on the class forum",
+        "tick": 227,
+        "importance": 6.5,
+        "recency": 0.16000000000000003,
+        "relevance": 0.2844465982534165,
+        "score": 0.1496
+    },
+    "group challenge on estimating definite integrals using different methods": {
+        "event": "group challenge on estimating definite integrals using different methods",
+        "tick": 82,
+        "importance": 15.0,
+        "recency": 0.01,
+        "relevance": 0.23710161100858804,
+        "score": 0.1485
+    },
+    "messaged ryan and tom about forming a study-review circle": {
+        "event": "messaged ryan and tom about forming a study-review circle",
+        "tick": 166,
+        "importance": 4.0,
+        "recency": 0.01,
+        "relevance": 0.24493907257103673,
+        "score": 0.1485
+    },
+    "read a blog post about academic burnout and warning signs": {
+        "event": "read a blog post about academic burnout and warning signs",
+        "tick": 238,
+        "importance": 12.0,
+        "recency": 0.27,
+        "relevance": 0.2519410488021153,
+        "score": 0.1485
+    },
+    "Sleep at tick 171": {
+        "event": "Sleep at tick 171",
+        "tick": 171,
+        "importance": 9.0,
+        "recency": 0.01,
+        "relevance": 0.3487240842920616,
+        "score": 0.1472
+    },
+    "reviewed some past year questions shared by professor": {
+        "event": "reviewed some past year questions shared by professor",
+        "tick": 117,
+        "importance": 8.5,
+        "recency": 0.01,
+        "relevance": 0.3993546320944494,
+        "score": 0.147
+    },
+    "algorithm professor held an in-class Q&A on recursion and dynamic programming": {
+        "event": "algorithm professor held an in-class Q&A on recursion and dynamic programming",
+        "tick": 105,
+        "importance": 14.0,
+        "recency": 0.01,
+        "relevance": 0.27508020161783175,
+        "score": 0.1462
+    },
+    "introduce algorithm class syllabus": {
+        "event": "introduce algorithm class syllabus",
+        "tick": 9,
+        "importance": 15.0,
+        "recency": 0.01,
+        "relevance": 0.3225433520112665,
+        "score": 0.1462
+    },
+    "Study/Homework (All Subjects) at tick 160": {
+        "event": "Study/Homework (All Subjects) at tick 160",
+        "tick": 160,
+        "importance": 17.0,
+        "recency": 0.01,
+        "relevance": 0.34958859877360904,
+        "score": 0.1458
+    },
+    "Study/Homework (All Subjects) at tick 304": {
+        "event": "Study/Homework (All Subjects) at tick 304",
+        "tick": 304,
+        "importance": 18.0,
+        "recency": 0.81,
+        "relevance": 0,
+        "score": 0.1458
+    },
+    "woke up to a calendar alert about project checkpoint submission": {
+        "event": "woke up to a calendar alert about project checkpoint submission",
+        "tick": 248,
+        "importance": 14.0,
+        "recency": 0.37,
+        "relevance": 0.2542745576288804,
+        "score": 0.1455
+    },
+    "your team clarified assumptions about input constraints with the professor": {
+        "event": "your team clarified assumptions about input constraints with the professor",
+        "tick": 107,
+        "importance": 7.5,
+        "recency": 0.01,
+        "relevance": 0.33133804254084587,
+        "score": 0.1452
+    },
+    "Sleep Preparation at tick 263": {
+        "event": "Sleep Preparation at tick 263",
+        "tick": 263,
+        "importance": 7.5,
+        "recency": 0.52,
+        "relevance": 0.32225816099633436,
+        "score": 0.145
+    },
+    "woke up to a calendar reminder about algorithm assignment deadline": {
+        "event": "woke up to a calendar reminder about algorithm assignment deadline",
+        "tick": 104,
+        "importance": 17.0,
+        "recency": 0.01,
+        "relevance": 0.32969310526011275,
+        "score": 0.1445
+    },
+    "Sleep at tick 100": {
+        "event": "Sleep at tick 100",
+        "tick": 100,
+        "importance": 12.0,
+        "recency": 0.01,
+        "relevance": 0.3561214080506352,
+        "score": 0.14415
+    },
+    "software engineering professor introduced REST API design": {
+        "event": "software engineering professor introduced REST API design",
+        "tick": 85,
+        "importance": 18.0,
+        "recency": 0.01,
+        "relevance": 0.20160555919531062,
+        "score": 0.14400000000000002
+    },
+    "Study/Homework (Algorithm, Math) at tick 183": {
+        "event": "Study/Homework (Algorithm, Math) at tick 183",
+        "tick": 183,
+        "importance": 18.5,
+        "recency": 0.01,
+        "relevance": 0.29292097460233824,
+        "score": 0.14400000000000002
+    },
+    "Sleep at tick 223": {
+        "event": "Sleep at tick 223",
+        "tick": 223,
+        "importance": 5.0,
+        "recency": 0.12,
+        "relevance": 0.32308170945722436,
+        "score": 0.144
+    },
+    "ate with emily and alex in the student lounge": {
+        "event": "ate with emily and alex in the student lounge",
+        "tick": 258,
+        "importance": 8.5,
+        "recency": 0.47,
+        "relevance": 0.22606804720134194,
+        "score": 0.14250000000000002
+    },
+    "professor announced that assignment 2 will involve pathfinding algorithms": {
+        "event": "professor announced that assignment 2 will involve pathfinding algorithms",
+        "tick": 179,
+        "importance": 8.5,
+        "recency": 0.01,
+        "relevance": 0.2643668042507741,
+        "score": 0.1408
+    },
+    "spotted a naming bug that was causing a re-render loop": {
+        "event": "spotted a naming bug that was causing a re-render loop",
+        "tick": 208,
+        "importance": 10.0,
+        "recency": 0.01,
+        "relevance": 0.14257729838416539,
+        "score": 0.13949999999999999
+    },
+    "Study/Homework (Algorithm, Math) at tick 280": {
+        "event": "Study/Homework (Algorithm, Math) at tick 280",
+        "tick": 280,
+        "importance": 15.0,
+        "recency": 0.69,
+        "relevance": 0.30133886875487176,
+        "score": 0.13949999999999999
+    },
+    "watched a video breakdown of dynamic programming problems": {
+        "event": "watched a video breakdown of dynamic programming problems",
+        "tick": 118,
+        "importance": 6.0,
+        "recency": 0.01,
+        "relevance": 0.32360672367585175,
+        "score": 0.1386
+    },
+    "talked about your shared interest in data visualization": {
+        "event": "talked about your shared interest in data visualization",
+        "tick": 132,
+        "importance": 8.5,
+        "recency": 0.01,
+        "relevance": 0.25724976664002,
+        "score": 0.1386
+    },
+    "professor paused to sketch a city graph as a follow-up": {
+        "event": "professor paused to sketch a city graph as a follow-up",
+        "tick": 226,
+        "importance": 7.5,
+        "recency": 0.15000000000000002,
+        "relevance": 0.3533816946092566,
+        "score": 0.1386
+    },
+    "Sleep at tick 27": {
+        "event": "Sleep at tick 27",
+        "tick": 27,
+        "importance": 7.0,
+        "recency": 0.01,
+        "relevance": 0.3380298070316703,
+        "score": 0.138
+    },
+    "created a joint Google Doc to track math practice": {
+        "event": "created a joint Google Doc to track math practice",
+        "tick": 135,
+        "importance": 4.0,
+        "recency": 0.01,
+        "relevance": 0.29240977847458466,
+        "score": 0.138
+    },
+    "did spaced repetition quiz using online flashcard app": {
+        "event": "did spaced repetition quiz using online flashcard app",
+        "tick": 159,
+        "importance": 8.5,
+        "recency": 0.01,
+        "relevance": 0.33116369772040744,
+        "score": 0.138
+    },
+    "professor complimented the responsiveness of your design": {
+        "event": "professor complimented the responsiveness of your design",
+        "tick": 207,
+        "importance": 8.0,
+        "recency": 0.01,
+        "relevance": 0.2815228243286381,
+        "score": 0.138
+    },
+    "Sleep at tick 219": {
+        "event": "Sleep at tick 219",
+        "tick": 219,
+        "importance": 7.0,
+        "recency": 0.07999999999999996,
+        "relevance": 0.32019063731661124,
+        "score": 0.138
+    },
+    "Sleep at tick 315": {
+        "event": "Sleep at tick 315",
+        "tick": 315,
+        "importance": 15.0,
+        "recency": 0.92,
+        "relevance": 0,
+        "score": 0.138
+    },
+    "Sleep at tick 144": {
+        "event": "Sleep at tick 144",
+        "tick": 144,
+        "importance": 6.0,
+        "recency": 0.01,
+        "relevance": 0.3437024564961538,
+        "score": 0.13795
+    },
+    "Sleep at tick 240": {
+        "event": "Sleep at tick 240",
+        "tick": 240,
+        "importance": 7.5,
+        "recency": 0.29000000000000004,
+        "relevance": 0.32816116625308567,
+        "score": 0.13795
+    },
+    "Study/Homework (Algorithm, Math) at tick 232": {
+        "event": "Study/Homework (Algorithm, Math) at tick 232",
+        "tick": 232,
+        "importance": 15.5,
+        "recency": 0.20999999999999996,
+        "relevance": 0.27416839559006784,
+        "score": 0.13770000000000002
+    },
+    "Study/Homework (All Subjects) at tick 136": {
+        "event": "Study/Homework (All Subjects) at tick 136",
+        "tick": 136,
+        "importance": 17.0,
+        "recency": 0.01,
+        "relevance": 0.36316459130076606,
+        "score": 0.13770000000000002
+    },
+    "shared funny design mistakes with sophie": {
+        "event": "shared funny design mistakes with sophie",
+        "tick": 141,
+        "importance": 6.5,
+        "recency": 0.01,
+        "relevance": 0.19692997871727938,
+        "score": 0.1372
+    },
+    "added an annotation layer based on her suggestion": {
+        "event": "added an annotation layer based on her suggestion",
+        "tick": 237,
+        "importance": 16.0,
+        "recency": 0.26,
+        "relevance": 0.26822264309827504,
+        "score": 0.1372
+    },
+    "math professor reviewed quiz results and handed back papers": {
+        "event": "math professor reviewed quiz results and handed back papers",
+        "tick": 249,
+        "importance": 12.0,
+        "recency": 0.38,
+        "relevance": 0.32926173163221084,
+        "score": 0.1372
+    },
+    "reviewed last week's weekly reflection and added three new goals": {
+        "event": "reviewed last week's weekly reflection and added three new goals",
+        "tick": 309,
+        "importance": 12.0,
+        "recency": 0.98,
+        "relevance": 0.24297248521300158,
+        "score": 0.1372
+    },
+    "submitted assignment 1 to the online portal": {
+        "event": "submitted assignment 1 to the online portal",
+        "tick": 110,
+        "importance": 16.0,
+        "recency": 0.01,
+        "relevance": 0.23460548292174965,
+        "score": 0.1365
+    }
+}

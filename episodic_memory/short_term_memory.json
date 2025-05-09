@@ -1,0 +1,402 @@
+{
+    "Study/Homework (All Subjects) at tick 136": {
+        "event": "Study/Homework (All Subjects) at tick 136",
+        "tick": 136,
+        "importance": 16.0,
+        "recency": 0.01,
+        "relevance": 0.22067438989811608,
+        "score": 0.1767
+    },
+    "math professor handed out a surprise quiz on integration by parts": {
+        "event": "math professor handed out a surprise quiz on integration by parts",
+        "tick": 201,
+        "importance": 8.0,
+        "recency": 0.01,
+        "relevance": 0.16675021449035185,
+        "score": 0.17149999999999999
+    },
+    "Sleep Preparation at tick 263": {
+        "event": "Sleep Preparation at tick 263",
+        "tick": 263,
+        "importance": 12.5,
+        "recency": 0.52,
+        "relevance": 0.0995654968715789,
+        "score": 0.17
+    },
+    "Sleep at tick 245": {
+        "event": "Sleep at tick 245",
+        "tick": 245,
+        "importance": 9.5,
+        "recency": 0.33999999999999997,
+        "relevance": 0.08932909408282327,
+        "score": 0.1692
+    },
+    "algorithm professor introduced Dijkstra’s algorithm with a whiteboard example": {
+        "event": "algorithm professor introduced Dijkstra’s algorithm with a whiteboard example",
+        "tick": 225,
+        "importance": 8.5,
+        "recency": 0.14,
+        "relevance": 0.2011831405288933,
+        "score": 0.1666
+    },
+    "helped brian fix an error in his GitHub repo": {
+        "event": "helped brian fix an error in his GitHub repo",
+        "tick": 140,
+        "importance": 15.0,
+        "recency": 0.01,
+        "relevance": 0.16276238684958644,
+        "score": 0.16005
+    },
+    "professor introduced partial fractions decomposition": {
+        "event": "professor introduced partial fractions decomposition",
+        "tick": 250,
+        "importance": 8.2,
+        "recency": 0.39,
+        "relevance": 0.13792452228929758,
+        "score": 0.1584
+    },
+    "helped alex find oat milk for his recipe project": {
+        "event": "helped alex find oat milk for his recipe project",
+        "tick": 322,
+        "importance": 16.0,
+        "recency": 0.99,
+        "relevance": 0,
+        "score": 0.1584
+    },
+    "you and sophie debugged a layout rendering issue": {
+        "event": "you and sophie debugged a layout rendering issue",
+        "tick": 88,
+        "importance": 8.5,
+        "recency": 0.01,
+        "relevance": 0.16901785055526392,
+        "score": 0.1581
+    },
+    "Study/Homework (All Subjects) at tick 302": {
+        "event": "Study/Homework (All Subjects) at tick 302",
+        "tick": 302,
+        "importance": 20.0,
+        "recency": 0.79,
+        "relevance": 0,
+        "score": 0.158
+    },
+    "read jasmine’s feedback on your latest data structure diagram": {
+        "event": "read jasmine’s feedback on your latest data structure diagram",
+        "tick": 237,
+        "importance": 15.0,
+        "recency": 0.26,
+        "relevance": 0.19813342702131373,
+        "score": 0.1568
+    },
+    "Sleep at tick 126": {
+        "event": "Sleep at tick 126",
+        "tick": 126,
+        "importance": 5.5,
+        "recency": 0.01,
+        "relevance": 0.09367428456137344,
+        "score": 0.15675
+    },
+    "she pointed out a mistake in one of your signs and helped you fix it": {
+        "event": "she pointed out a mistake in one of your signs and helped you fix it",
+        "tick": 251,
+        "importance": 8.5,
+        "recency": 0.4,
+        "relevance": 0.15659552743198601,
+        "score": 0.155
+    },
+    "professor drew a diagram that helped clarify data flow": {
+        "event": "professor drew a diagram that helped clarify data flow",
+        "tick": 206,
+        "importance": 7.8,
+        "recency": 0.01,
+        "relevance": 0.17693496984975804,
+        "score": 0.1547
+    },
+    "realized you had misunderstood a base case and corrected it": {
+        "event": "realized you had misunderstood a base case and corrected it",
+        "tick": 277,
+        "importance": 14.5,
+        "recency": 0.6599999999999999,
+        "relevance": 0.16150505556800993,
+        "score": 0.153
+    },
+    "updated your Trello board with assignment 2 tasks": {
+        "event": "updated your Trello board with assignment 2 tasks",
+        "tick": 189,
+        "importance": 7.5,
+        "recency": 0.01,
+        "relevance": 0.16954168595901264,
+        "score": 0.1519
+    },
+    "announced that assignment 1 is due by 11:59 PM today": {
+        "event": "announced that assignment 1 is due by 11:59 PM today",
+        "tick": 105,
+        "importance": 4.0,
+        "recency": 0.01,
+        "relevance": 0.13857925747686733,
+        "score": 0.1505
+    },
+    "Free Time (Gaming, Internet Browsing) at tick 137": {
+        "event": "Free Time (Gaming, Internet Browsing) at tick 137",
+        "tick": 137,
+        "importance": 7.0,
+        "recency": 0.01,
+        "relevance": 0.18750245071309504,
+        "score": 0.1504
+    },
+    "Free Time (Gaming, Internet Browsing) at tick 299": {
+        "event": "Free Time (Gaming, Internet Browsing) at tick 299",
+        "tick": 299,
+        "importance": 13.0,
+        "recency": 0.88,
+        "relevance": 0.17817104139031942,
+        "score": 0.15
+    },
+    "Study/Homework (All Subjects) at tick 304": {
+        "event": "Study/Homework (All Subjects) at tick 304",
+        "tick": 304,
+        "importance": 18.5,
+        "recency": 0.81,
+        "relevance": 0,
+        "score": 0.14985
+    },
+    "browsed dev.to articles about developer burnout": {
+        "event": "browsed dev.to articles about developer burnout",
+        "tick": 130,
+        "importance": 9.0,
+        "recency": 0.01,
+        "relevance": 0.188841584722016,
+        "score": 0.1485
+    },
+    "talked about project progress and weekend availability": {
+        "event": "talked about project progress and weekend availability",
+        "tick": 262,
+        "importance": 7.5,
+        "recency": 0.51,
+        "relevance": 0.16332391495196022,
+        "score": 0.1485
+    },
+    "watched a video essay on game design principles": {
+        "event": "watched a video essay on game design principles",
+        "tick": 129,
+        "importance": 8.5,
+        "recency": 0.01,
+        "relevance": 0.18680456661625044,
+        "score": 0.147
+    },
+    "shared funny design mistakes with sophie": {
+        "event": "shared funny design mistakes with sophie",
+        "tick": 141,
+        "importance": 12.5,
+        "recency": 0.01,
+        "relevance": 0.15838311204970978,
+        "score": 0.147
+    },
+    "cleaned up your desktop files for the first time in weeks": {
+        "event": "cleaned up your desktop files for the first time in weeks",
+        "tick": 213,
+        "importance": 8.5,
+        "recency": 0.020000000000000018,
+        "relevance": 0.15575067230077175,
+        "score": 0.147
+    },
+    "math professor reviewed quiz results and handed back papers": {
+        "event": "math professor reviewed quiz results and handed back papers",
+        "tick": 249,
+        "importance": 12.0,
+        "recency": 0.38,
+        "relevance": 0.22898418686696906,
+        "score": 0.147
+    },
+    "replied with clarification and linked a code snippet": {
+        "event": "replied with clarification and linked a code snippet",
+        "tick": 261,
+        "importance": 12.0,
+        "recency": 0.5,
+        "relevance": 0.09300059694800666,
+        "score": 0.147
+    },
+    "set up a Pomodoro timer template for next week’s study blocks": {
+        "event": "set up a Pomodoro timer template for next week’s study blocks",
+        "tick": 309,
+        "importance": 17.0,
+        "recency": 0.86,
+        "relevance": 0,
+        "score": 0.1462
+    },
+    "algorithm professor started a new topic on graph traversal": {
+        "event": "algorithm professor started a new topic on graph traversal",
+        "tick": 177,
+        "importance": 13.0,
+        "recency": 0.01,
+        "relevance": 0.1743404804166919,
+        "score": 0.1462
+    },
+    "announced algorithm quiz on recursion scheduled for next Monday": {
+        "event": "announced algorithm quiz on recursion scheduled for next Monday",
+        "tick": 57,
+        "importance": 17.0,
+        "recency": 0.01,
+        "relevance": 0.12362152082585531,
+        "score": 0.1462
+    },
+    "introduce algorithm class syllabus": {
+        "event": "introduce algorithm class syllabus",
+        "tick": 9,
+        "importance": 17.0,
+        "recency": 0.01,
+        "relevance": 0.20030426138641358,
+        "score": 0.1462
+    },
+    "Math Class assignment 1 on integration techniques was announced": {
+        "event": "Math Class assignment 1 on integration techniques was announced",
+        "tick": 33,
+        "importance": 18.5,
+        "recency": 0.01,
+        "relevance": 0.16904663222695593,
+        "score": 0.1462
+    },
+    "assigned practice problems focusing on Simpson’s Rule": {
+        "event": "assigned practice problems focusing on Simpson’s Rule",
+        "tick": 81,
+        "importance": 16.5,
+        "recency": 0.01,
+        "relevance": 0.09447194431032209,
+        "score": 0.1462
+    },
+    "Study/Homework (Algorithm, Math) at tick 280": {
+        "event": "Study/Homework (Algorithm, Math) at tick 280",
+        "tick": 280,
+        "importance": 11.0,
+        "recency": 0.69,
+        "relevance": 0.16958367411241,
+        "score": 0.1458
+    },
+    "you noted down steps to replicate the process later": {
+        "event": "you noted down steps to replicate the process later",
+        "tick": 254,
+        "importance": 8.5,
+        "recency": 0.43000000000000005,
+        "relevance": 0.12352144993656239,
+        "score": 0.1456
+    },
+    "Sleep at tick 290": {
+        "event": "Sleep at tick 290",
+        "tick": 290,
+        "importance": 12.0,
+        "recency": 0.79,
+        "relevance": 0.08946996584055414,
+        "score": 0.1456
+    },
+    "woke up to a calendar alert about project checkpoint submission": {
+        "event": "woke up to a calendar alert about project checkpoint submission",
+        "tick": 248,
+        "importance": 16.0,
+        "recency": 0.37,
+        "relevance": 0.15003482785732797,
+        "score": 0.1455
+    },
+    "you both agreed to review each other’s pull requests tomorrow": {
+        "event": "you both agreed to review each other’s pull requests tomorrow",
+        "tick": 308,
+        "importance": 12.0,
+        "recency": 0.97,
+        "relevance": 0.09018428535251444,
+        "score": 0.1455
+    },
+    "woke up to a calendar reminder about algorithm assignment deadline": {
+        "event": "woke up to a calendar reminder about algorithm assignment deadline",
+        "tick": 104,
+        "importance": 19.0,
+        "recency": 0.01,
+        "relevance": 0.1932544383169934,
+        "score": 0.1445
+    },
+    "started a blog draft on algorithm assignment experience": {
+        "event": "started a blog draft on algorithm assignment experience",
+        "tick": 139,
+        "importance": 8.5,
+        "recency": 0.01,
+        "relevance": 0.2351559043950417,
+        "score": 0.144
+    },
+    "Sleep at tick 151": {
+        "event": "Sleep at tick 151",
+        "tick": 151,
+        "importance": 9.5,
+        "recency": 0.01,
+        "relevance": 0.10580613644333434,
+        "score": 0.144
+    },
+    "Sleep at tick 78": {
+        "event": "Sleep at tick 78",
+        "tick": 78,
+        "importance": 8.5,
+        "recency": 0.01,
+        "relevance": 0.09019966933012757,
+        "score": 0.14250000000000002
+    },
+    "algorithm professor introduced Floyd-Warshall algorithm with matrix diagrams": {
+        "event": "algorithm professor introduced Floyd-Warshall algorithm with matrix diagrams",
+        "tick": 273,
+        "importance": 12.0,
+        "recency": 0.62,
+        "relevance": 0.12980035216692576,
+        "score": 0.1421
+    },
+    "decided to use Express.js for backend API routing": {
+        "event": "decided to use Express.js for backend API routing",
+        "tick": 86,
+        "importance": 13.0,
+        "recency": 0.01,
+        "relevance": 0.12493849543624005,
+        "score": 0.14105
+    },
+    "Sleep at tick 146": {
+        "event": "Sleep at tick 146",
+        "tick": 146,
+        "importance": 7.0,
+        "recency": 0.01,
+        "relevance": 0.09984315364598365,
+        "score": 0.14105
+    },
+    "you organized your code into modular sections after discussing with her": {
+        "event": "you organized your code into modular sections after discussing with her",
+        "tick": 230,
+        "importance": 6.0,
+        "recency": 0.18999999999999995,
+        "relevance": 0.1695659933076772,
+        "score": 0.14105
+    },
+    "Sleep at tick 197": {
+        "event": "Sleep at tick 197",
+        "tick": 197,
+        "importance": 15.0,
+        "recency": 0.01,
+        "relevance": 0.07661577349799191,
+        "score": 0.141
+    },
+    "woke up early to revise before the math quiz": {
+        "event": "woke up early to revise before the math quiz",
+        "tick": 176,
+        "importance": 12.0,
+        "recency": 0.01,
+        "relevance": 0.1905847163026641,
+        "score": 0.14065
+    },
+    "Sleep at tick 315": {
+        "event": "Sleep at tick 315",
+        "tick": 315,
+        "importance": 15.0,
+        "recency": 0.92,
+        "relevance": 0,
+        "score": 0.138
+    },
+    "watched a video essay on managing long-term coding projects": {
+        "event": "watched a video essay on managing long-term coding projects",
+        "tick": 305,
+        "importance": 15.0,
+        "recency": 0.8200000000000001,
+        "relevance": 0,
+        "score": 0.12300000000000001
+    }
+}

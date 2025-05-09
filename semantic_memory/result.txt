@@ -1,0 +1,4 @@
+Test finished. Results saved to memory_accuracy_bleu_results.json
+Test finished. Results saved to causal_reasoning_similarity_results.json
+
+ Final Combined Score (80% BLEU + 20% Similarity): 0.1994

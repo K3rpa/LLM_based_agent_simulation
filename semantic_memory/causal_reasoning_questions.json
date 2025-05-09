@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "You helped your teammate debug a difficult bug. What might happen in the future?",
+    "correct_answers": [
+        "They might help you in return.",
+        "They could appreciate your skills.",
+        "They may share useful resources later.",
+        "I might gain their trust.",
+        "They might invite you for future collaborations."
+    ],
+    "tick": 16
+  },
+  {
+    "id": 2,
+    "question": "You shared useful notes with your team. What might they do next?",
+    "correct_answers": [
+        "They might thank you.",
+        "They could return the favor later.",
+        "They might rely on you for future help.",
+        "They may view you as dependable.",
+        "They might share their resources with you too."
+    ],
+    "tick": 13
+  },
+  {
+    "id": 3,
+    "question": "You played a game with your teammate in free time. What could this lead to?",
+    "correct_answers": [
+        "I might build a stronger friendship.",
+        "They might invite you again.",
+        "They could trust you more in teamwork.",
+        "It might improve team coordination.",
+        "They might feel more connected to you."
+    ],
+    "tick": 19
+  },
+  {
+    "id": 4,
+    "question": "You joined a Discord group to discuss a class project. What might happen next?",
+    "correct_answers": [
+        "I might receive helpful information.",
+        "I could collaborate more effectively.",
+        "I may feel more included.",
+        "I might get real-time feedback.",
+        "I could solve problems faster together."
+    ],
+    "tick": 14
+  },
+  {
+    "id": 5,
+    "question": "You ate lunch with your teammate and talked about school. What might this lead to?",
+    "correct_answers": [
+        "They might become closer friends.",
+        "I may feel more comfortable working with them.",
+        "They might share advice with you.",
+        "I could build mutual respect.",
+        "They might include you in more conversations."
+    ],
+    "tick": 12
+  },
+  {
+    "id": 6,
+    "question": "You helped someone fix a problem today. What might happen next time you need help?",
+    "correct_answers": [
+        "They might assist you in return.",
+        "They could appreciate your support.",
+        "I might build trust.",
+        "They may become more responsive.",
+        "They might thank you publicly."
+    ],
+    "tick": 327
+  },
+  {
+    "id": 7,
+    "question": "You joined a new study group and shared your notes. What could happen next?",
+    "correct_answers": [
+        "Others might share their resources with you.",
+        "I may be asked to join future sessions.",
+        "They might rely on you for explanations.",
+        "I could build a supportive network.",
+        "They might consider you a valuable member."
+    ],
+    "tick": 35
+  },
+  {
+    "id": 8,
+    "question": "You and your friend laughed over a bug during dinner. What might happen in future work?",
+    "correct_answers": [
+        "I might feel more relaxed together.",
+        "They may approach you more easily with problems.",
+        "I might enjoy working with them.",
+        "I could communicate better.",
+        "It might build positive team morale."
+    ],
+    "tick": 66
+  },
+  {
+    "id": 9,
+    "question": "You gave someone feedback on their code. What could be the outcome?",
+    "correct_answers": [
+        "They might improve their work.",
+        "They could ask for your help again.",
+        "They might thank you for the feedback.",
+        "I could become a mentor figure.",
+        "They might review your work next time."
+    ],
+    "tick": 89
+  },
+  {
+    "id": 10,
+    "question": "You studied with a classmate before the quiz. What might happen after the quiz?",
+    "correct_answers": [
+        "They may want to study with you again.",
+        "I could both score higher.",
+        "I might enjoy working with them.",
+        "They might share more tips later.",
+        "It might build academic partnership."
+    ],
+    "tick": 181
+  }
+]

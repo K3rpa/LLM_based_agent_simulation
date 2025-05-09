@@ -1,0 +1,215 @@
+[
+  {
+    "id": 1,
+    "question": "What did Updated you share in your shared Google Drive in tick 325?",
+    "predicted_answer": "Updated algorithm assignment draft with final code implementations.",
+    "gold_answer": "updated your shared Google Drive folder for Week 3 materials",
+    "bleu_score": 0.0223
+  },
+  {
+    "id": 2,
+    "question": "Who are your teammates in your algorithm Class?",
+    "predicted_answer": "Your teammates in Algorithm Class are David, Sophie, and Alex.",
+    "gold_answer": "found your Algorithm Class teammate they are tom, brian, chris and alex",
+    "bleu_score": 0.0586
+  },
+  {
+    "id": 3,
+    "question": "What did Ryan share with you in tick 226?",
+    "predicted_answer": "Ryan shared a post with me in tick 226.",
+    "gold_answer": "ryan shared a real-world example involving shortest path in delivery networks",
+    "bleu_score": 0.1243
+  },
+  {
+    "id": 4,
+    "question": "What did you agree in tick 252?",
+    "predicted_answer": "In tick 252, I agreed to review the project requirements with Emily.",
+    "gold_answer": "talked about math quiz scores and agreed to study together again on Sunday",
+    "bleu_score": 0.0439
+  },
+  {
+    "id": 5,
+    "question": "Who is Alice and what is their background?",
+    "predicted_answer": "Alice is not mentioned in the given memory.",
+    "gold_answer": "alice is a sophomore majoring in mathematics, interested in statistics",
+    "bleu_score": 0.0614
+  },
+  {
+    "id": 6,
+    "question": "what did brian said to replied to the post in tick 238?",
+    "predicted_answer": "Brian replied that he's on 'low battery mode'.",
+    "gold_answer": "he’s on 'low battery mode'",
+    "bleu_score": 0.1651
+  },
+  {
+    "id": 7,
+    "question": "What did After the game, ryan remind you about in tick 281?",
+    "predicted_answer": "ryan reminded me about studying and doing homework (Algorithm, Math) in tick 281.",
+    "gold_answer": "after the game, ryan reminded everyone to merge their branches tonight",
+    "bleu_score": 0.0442
+  },
+  {
+    "id": 8,
+    "question": "what did jasmine replied to you in tick 305 when you share stuff with her in tick 305?",
+    "predicted_answer": "In tick 305, Jasmine replied that she's on 'low battery mode'.",
+    "gold_answer": "shared it with jasmine and she replied that it fits her current mood perfectly",
+    "bleu_score": 0.0437
+  },
+  {
+    "id": 9,
+    "question": "What discussion or group did you join in tick 68?",
+    "predicted_answer": "GitHub repo discussion on assignment optimization.",
+    "gold_answer": "joined a GitHub repo discussion on assignment optimization",
+    "bleu_score": 0.5444
+  },
+  {
+    "id": 10,
+    "question": "Who did you talk with and what did you talk about in tick 154?",
+    "predicted_answer": "In tick 154, I talked with Emily about studying for our upcoming algorithms test.",
+    "gold_answer": "talked with ryan about your high school memories and recent courses",
+    "bleu_score": 0.0457
+  },
+  {
+    "id": 11,
+    "question": "What did Brian share with you in tick 299?",
+    "predicted_answer": "Brian replied that he's on 'low battery mode' in tick 238.",
+    "gold_answer": "brian shared a helpful visual explanation of dynamic programming overlap",
+    "bleu_score": 0.0216
+  },
+  {
+    "id": 12,
+    "question": "what did you talk about in tick 36?",
+    "predicted_answer": "You had lunch with the new study group at the campus cafeteria in tick 36.",
+    "gold_answer": "talked about assignment deadlines and upcoming exams",
+    "bleu_score": 0
+  },
+  {
+    "id": 13,
+    "question": "What did you share in tick 207?",
+    "predicted_answer": "At tick 207, I paired up with Jasmine to refactor my login component.",
+    "gold_answer": "you shared your screen during a mini-demo of your UI component",
+    "bleu_score": 0
+  },
+  {
+    "id": 14,
+    "question": "What did Math professor share with you in tick 35?",
+    "predicted_answer": "In tick 35, the Math professor shared that John is a junior studying physics, passionate about solving complex problems.",
+    "gold_answer": "math professor shared online resources for calculus practice",
+    "bleu_score": 0.066
+  },
+  {
+    "id": 15,
+    "question": "What did share with you in tick 113?",
+    "predicted_answer": "Spotted a naming bug that was causing a re-render loop.",
+    "gold_answer": "shared memes and coding jokes during dinner",
+    "bleu_score": 0
+  },
+  {
+    "id": 16,
+    "question": "Who is David and what is their background?",
+    "predicted_answer": "David is someone who helped optimize John's API routes with better structure.",
+    "gold_answer": "david is a senior specializing in backend systems, especially Node.js",
+    "bleu_score": 0.0477
+  },
+  {
+    "id": 17,
+    "question": "What did share with you in tick 138?",
+    "predicted_answer": "Brian replied that he's on 'low battery mode' in tick 138.",
+    "gold_answer": "shared the link with emily and jasmine",
+    "bleu_score": 0
+  },
+  {
+    "id": 18,
+    "question": "Who is Ryan and what is their background?",
+    "predicted_answer": "Ryan is not mentioned in the provided information.",
+    "gold_answer": "ryan is a second-year computer engineering student, known for his quick wit and love for hackathons",
+    "bleu_score": 0.0262
+  },
+  {
+    "id": 19,
+    "question": "What did Brian share with you in tick 278?",
+    "predicted_answer": "Brian replied that he's on 'low battery mode' in tick 238.",
+    "gold_answer": "brian shared his hand-drawn matrix notes which helped simplify your approach",
+    "bleu_score": 0.0216
+  },
+  {
+    "id": 20,
+    "question": "Who is Chris whispered to in tick 226?",
+    "predicted_answer": "Emily.",
+    "gold_answer": "chris whispered to emily for clarification",
+    "bleu_score": 0
+  },
+  {
+    "id": 21,
+    "question": "what mistake that you helped brian in tick 278?",
+    "predicted_answer": "You helped Brian fix an error in his GitHub repo related to incorrect time complexity analysis.",
+    "gold_answer": "you helped brian spot a sign mistake in one equation",
+    "bleu_score": 0.0844
+  },
+  {
+    "id": 22,
+    "question": "What did Professor remind you about in tick 255?",
+    "predicted_answer": "Professor reminded me about reviewing the upcoming exam material in tick 255.",
+    "gold_answer": "professor reminded the class about Sunday’s milestone deadline",
+    "bleu_score": 0.0568
+  },
+  {
+    "id": 23,
+    "question": "What happened for alex in tick 273?",
+    "predicted_answer": "Alex faced a bug and asked for help.",
+    "gold_answer": "alex asked a follow-up question that helped clarify the concept for several students",
+    "bleu_score": 0.0216
+  },
+  {
+    "id": 24,
+    "question": "What discussion or group did you join in tick 92?",
+    "predicted_answer": "In tick 92, you joined a GitHub repo discussion on assignment optimization.",
+    "gold_answer": "joined a Discord talk on software internships",
+    "bleu_score": 0.0528
+  },
+  {
+    "id": 25,
+    "question": "What did Roommate made avocado toast and remind you about in tick 152?",
+    "predicted_answer": "Roommate made avocado toast and reminded me about the algorithm project due next week in tick 152.",
+    "gold_answer": "roommate made avocado toast and reminded you to buy groceries",
+    "bleu_score": 0.2818
+  },
+  {
+    "id": 26,
+    "question": "What happened in for algorithm professor tick 273?",
+    "predicted_answer": "At tick 273, the algorithm professor did not have any specific event recorded in the memory.",
+    "gold_answer": "algorithm professor introduced Floyd-Warshall algorithm with matrix diagrams",
+    "bleu_score": 0.0364
+  },
+  {
+    "id": 27,
+    "question": "What did Jasmine share with you in tick 324?",
+    "predicted_answer": "In tick 324, Jasmine shared her study notes on front-end state management techniques with you.",
+    "gold_answer": "jasmine shared a revision mindmap for graph theory on Notion",
+    "bleu_score": 0.0428
+  },
+  {
+    "id": 28,
+    "question": "Who did you talk with and what did you talk about in tick 160?",
+    "predicted_answer": "You didn't talk to anyone in tick 160.",
+    "gold_answer": "played Minecraft for an hour with ryan and brian, talked about childhood gaming memories over voice chat",
+    "bleu_score": 0
+  },
+  {
+    "id": 29,
+    "question": "What did Tom share with you in tick 13?",
+    "predicted_answer": "Tom shared some interesting web app ideas with John in tick 13.",
+    "gold_answer": "tom shared some useful notes on algorithm",
+    "bleu_score": 0.1058
+  },
+  {
+    "id": 30,
+    "question": "Who did you share takeout with in tick 328?",
+    "predicted_answer": "Emily",
+    "gold_answer": "shared takeout with jasmine and kevin in the dorm lounge",
+    "bleu_score": 0
+  },
+  {
+    "average_bleu_score": 0.0673
+  }
+]

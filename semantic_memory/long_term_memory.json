@@ -1,0 +1,322 @@
+{
+    "Study/Homework (All Subjects) at tick 303": {
+        "event": "Study/Homework (All Subjects) at tick 303",
+        "tick": 303,
+        "importance": 18.5,
+        "recency": 0.92,
+        "relevance": 0.3614845383946671,
+        "score": 0.1702
+    },
+    "Study/Homework (All Subjects) at tick 304": {
+        "event": "Study/Homework (All Subjects) at tick 304",
+        "tick": 304,
+        "importance": 17.0,
+        "recency": 0.9299999999999999,
+        "relevance": 0.35839341168454436,
+        "score": 0.1581
+    },
+    "did spaced repetition quiz using online flashcard app": {
+        "event": "did spaced repetition quiz using online flashcard app",
+        "tick": 159,
+        "importance": 17.0,
+        "recency": 0.92,
+        "relevance": 0.33116369772040744,
+        "score": 0.1564
+    },
+    "Study/Homework (All Subjects) at tick 302": {
+        "event": "Study/Homework (All Subjects) at tick 302",
+        "tick": 302,
+        "importance": 17.0,
+        "recency": 0.91,
+        "relevance": 0.354841160779926,
+        "score": 0.1547
+    },
+    "set alarm and prepared clothes for Tuesday": {
+        "event": "set alarm and prepared clothes for Tuesday",
+        "tick": 23,
+        "importance": 15.0,
+        "recency": 1.0,
+        "relevance": 0.28542567990768153,
+        "score": 0.15
+    },
+    "you and chris tried debugging the issue": {
+        "event": "you and chris tried debugging the issue",
+        "tick": 16,
+        "importance": 15.0,
+        "recency": 0.9299999999999999,
+        "relevance": 0.19127701467431013,
+        "score": 0.13949999999999999
+    },
+    "Study/Homework (Algorithm, Math) at tick 185": {
+        "event": "Study/Homework (Algorithm, Math) at tick 185",
+        "tick": 185,
+        "importance": 19.0,
+        "recency": 0.7,
+        "relevance": 0.285727584329902,
+        "score": 0.13299999999999998
+    },
+    "created a joint Google Doc to track math practice": {
+        "event": "created a joint Google Doc to track math practice",
+        "tick": 135,
+        "importance": 14.0,
+        "recency": 0.92,
+        "relevance": 0.29240977847458466,
+        "score": 0.1288
+    },
+    "completed three timed practice questions and checked answers": {
+        "event": "completed three timed practice questions and checked answers",
+        "tick": 157,
+        "importance": 14.0,
+        "recency": 0.9,
+        "relevance": 0.32025672428684937,
+        "score": 0.126
+    },
+    "Sleep at tick 223": {
+        "event": "Sleep at tick 223",
+        "tick": 223,
+        "importance": 15.0,
+        "recency": 0.84,
+        "relevance": 0.32308170945722436,
+        "score": 0.126
+    },
+    "spotted a naming bug that was causing a re-render loop": {
+        "event": "spotted a naming bug that was causing a re-render loop",
+        "tick": 208,
+        "importance": 18.0,
+        "recency": 0.69,
+        "relevance": 0.14257729838416539,
+        "score": 0.12419999999999999
+    },
+    "professor complimented the responsiveness of your design": {
+        "event": "professor complimented the responsiveness of your design",
+        "tick": 207,
+        "importance": 18.0,
+        "recency": 0.6799999999999999,
+        "relevance": 0.28148114174092337,
+        "score": 0.12239999999999998
+    },
+    "wrote a short blog entry summarizing your understanding of graph traversal": {
+        "event": "wrote a short blog entry summarizing your understanding of graph traversal",
+        "tick": 235,
+        "importance": 12.5,
+        "recency": 0.96,
+        "relevance": 0.2435519028287917,
+        "score": 0.12
+    },
+    "brian shared github repo link": {
+        "event": "brian shared github repo link",
+        "tick": 15,
+        "importance": 13.0,
+        "recency": 0.92,
+        "relevance": 0.2129210037547542,
+        "score": 0.11960000000000001
+    },
+    "Study/Homework (Algorithm, Math) at tick 281": {
+        "event": "Study/Homework (Algorithm, Math) at tick 281",
+        "tick": 281,
+        "importance": 17.0,
+        "recency": 0.7,
+        "relevance": 0.3054643534766278,
+        "score": 0.119
+    },
+    "team posted daily progress in shared Notion": {
+        "event": "team posted daily progress in shared Notion",
+        "tick": 22,
+        "importance": 12.0,
+        "recency": 0.99,
+        "relevance": 0.37962037445725405,
+        "score": 0.11879999999999999
+    },
+    "joined a Reddit AMA about preparing for coding interviews": {
+        "event": "joined a Reddit AMA about preparing for coding interviews",
+        "tick": 45,
+        "importance": 12.0,
+        "recency": 0.98,
+        "relevance": 0.26137132814092057,
+        "score": 0.1176
+    },
+    "reviewed last week's weekly reflection and added three new goals": {
+        "event": "reviewed last week's weekly reflection and added three new goals",
+        "tick": 309,
+        "importance": 12.0,
+        "recency": 0.98,
+        "relevance": 0.24297248521300158,
+        "score": 0.1176
+    },
+    "Study/Homework (Algorithm, Math) at tick 113": {
+        "event": "Study/Homework (Algorithm, Math) at tick 113",
+        "tick": 113,
+        "importance": 12.5,
+        "recency": 0.94,
+        "relevance": 0.3039494035414415,
+        "score": 0.11750000000000001
+    },
+    "watched tutorial videos on effective sprint planning": {
+        "event": "watched tutorial videos on effective sprint planning",
+        "tick": 41,
+        "importance": 12.0,
+        "recency": 0.94,
+        "relevance": 0.37729245601092554,
+        "score": 0.1128
+    },
+    "Study/Homework (Algorithm, Math) at tick 183": {
+        "event": "Study/Homework (Algorithm, Math) at tick 183",
+        "tick": 183,
+        "importance": 16.0,
+        "recency": 0.6799999999999999,
+        "relevance": 0.29292097460233824,
+        "score": 0.1088
+    },
+    "you replied with a stack overflow screenshot": {
+        "event": "you replied with a stack overflow screenshot",
+        "tick": 69,
+        "importance": 11.0,
+        "recency": 0.98,
+        "relevance": 0.16735918614950815,
+        "score": 0.10779999999999999
+    },
+    "john is a junior studying physics, passionate about solving complex problems": {
+        "event": "john is a junior studying physics, passionate about solving complex problems",
+        "tick": 35,
+        "importance": 12.0,
+        "recency": 0.88,
+        "relevance": 0.20602252287722533,
+        "score": 0.10560000000000001
+    },
+    "software engineering professor introduced project-based course format": {
+        "event": "software engineering professor introduced project-based course format",
+        "tick": 37,
+        "importance": 16.0,
+        "recency": 0.6599999999999999,
+        "relevance": 0.31114061002213145,
+        "score": 0.10559999999999999
+    },
+    "Study/Homework (Algorithm, Math) at tick 233": {
+        "event": "Study/Homework (Algorithm, Math) at tick 233",
+        "tick": 233,
+        "importance": 15.0,
+        "recency": 0.7,
+        "relevance": 0.2957251695184878,
+        "score": 0.105
+    },
+    "read a blog post about academic burnout and warning signs": {
+        "event": "read a blog post about academic burnout and warning signs",
+        "tick": 238,
+        "importance": 14.0,
+        "recency": 0.75,
+        "relevance": 0.2519410488021153,
+        "score": 0.105
+    },
+    "Study/Homework (Algorithm, Math) at tick 280": {
+        "event": "Study/Homework (Algorithm, Math) at tick 280",
+        "tick": 280,
+        "importance": 15.0,
+        "recency": 0.69,
+        "relevance": 0.30133886875487176,
+        "score": 0.1035
+    },
+    "algorithm professor provided hints for assignment 1": {
+        "event": "algorithm professor provided hints for assignment 1",
+        "tick": 59,
+        "importance": 16.0,
+        "recency": 0.64,
+        "relevance": 0.29590020613605783,
+        "score": 0.1024
+    },
+    "professor shared an online simulation tool for visualization": {
+        "event": "professor shared an online simulation tool for visualization",
+        "tick": 83,
+        "importance": 16.0,
+        "recency": 0.64,
+        "relevance": 0.39006063981681266,
+        "score": 0.1024
+    },
+    "Sleep Preparation at tick 71": {
+        "event": "Sleep Preparation at tick 71",
+        "tick": 71,
+        "importance": 10.0,
+        "recency": 1.0,
+        "relevance": 0.35146703083004366,
+        "score": 0.1
+    },
+    "Math Class assignment 1 on integration techniques was announced": {
+        "event": "Math Class assignment 1 on integration techniques was announced",
+        "tick": 33,
+        "importance": 16.0,
+        "recency": 0.62,
+        "relevance": 0.33470070745672476,
+        "score": 0.0992
+    },
+    "announced that assignment 1 is due by 11:59 PM today": {
+        "event": "announced that assignment 1 is due by 11:59 PM today",
+        "tick": 105,
+        "importance": 16.0,
+        "recency": 0.62,
+        "relevance": 0.28533599965414536,
+        "score": 0.0992
+    },
+    "shared your solution to assignment part 1 on Notion": {
+        "event": "shared your solution to assignment part 1 on Notion",
+        "tick": 70,
+        "importance": 10.0,
+        "recency": 0.99,
+        "relevance": 0.2865315465761978,
+        "score": 0.099
+    },
+    "you wrote a short reflection journal about teamwork experience": {
+        "event": "you wrote a short reflection journal about teamwork experience",
+        "tick": 23,
+        "importance": 12.5,
+        "recency": 0.76,
+        "relevance": 0.3371974007308932,
+        "score": 0.095
+    },
+    "Sleep at tick 26": {
+        "event": "Sleep at tick 26",
+        "tick": 26,
+        "importance": 12.0,
+        "recency": 0.79,
+        "relevance": 0.33493304056550444,
+        "score": 0.09480000000000001
+    },
+    "algorithm professor started a new topic on graph traversal": {
+        "event": "algorithm professor started a new topic on graph traversal",
+        "tick": 177,
+        "importance": 15.0,
+        "recency": 0.62,
+        "relevance": 0.20091237355348315,
+        "score": 0.09300000000000001
+    },
+    "alex faced a bug and asked for help": {
+        "event": "alex faced a bug and asked for help",
+        "tick": 16,
+        "importance": 10.0,
+        "recency": 0.9299999999999999,
+        "relevance": 0.13901301602800883,
+        "score": 0.09299999999999999
+    },
+    "Sleep Preparation at tick 263": {
+        "event": "Sleep Preparation at tick 263",
+        "tick": 263,
+        "importance": 12.0,
+        "recency": 0.76,
+        "relevance": 0.3222471046782978,
+        "score": 0.09120000000000002
+    },
+    "math professor reviewed quiz results and handed back papers": {
+        "event": "math professor reviewed quiz results and handed back papers",
+        "tick": 249,
+        "importance": 12.0,
+        "recency": 0.38,
+        "relevance": 0.32926173163221084,
+        "score": 0.04560000000000001
+    },
+    "added an annotation layer based on her suggestion": {
+        "event": "added an annotation layer based on her suggestion",
+        "tick": 237,
+        "importance": 16.0,
+        "recency": 0.26,
+        "relevance": 0.26822264309827504,
+        "score": 0.041600000000000005
+    }
+}
