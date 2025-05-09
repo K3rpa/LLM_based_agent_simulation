@@ -6,7 +6,7 @@ from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 from typing import List
 
 client = OpenAI(
-    api_key="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"
+    api_key="your token key"
 )
 
 def load_file(path):
