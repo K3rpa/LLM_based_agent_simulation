@@ -2,7 +2,11 @@
 
 **Author:** Boxi Chen  
 **Affiliation:** California State University, Chico  
-**Contact:** bchen1@csuchico.edu
+**Contact:** boxi.chen2025@outlook.com
+
+- 📄 Full Paper: [Memory Architecture for Generative Agents Using LLM (Google Docs)](https://docs.google.com/document/d/1FGDz04GW7XZqyYmeO3mc6lRoJhomvn5pxqIf1NyiQWQ/edit?usp=sharing)
+- 🎥 Presentation Video: [Watch on YouTube](https://youtu.be/d-ju9s9O6Hw)
+
 
 ## 📘 Overview
 
@@ -60,11 +64,14 @@ The agent is evaluated on:
 
 ## 📈 Sample Result
 
-Example question:
-    Q: Who are your teammates in your algorithm class?
-    A: Brian, David, and Jasmine.
-    Reference: Tom, Brian, Chris, and Alex
-    BLEU Score: 0.0098
+The following is an example of how the agent was evaluated using BLEU score:
+
+```text
+Q: Who are your teammates in your algorithm class?
+A: Brian, David, and Jasmine.
+Reference: Tom, Brian, Chris, and Alex
+BLEU Score: 0.0098
+
 Even partial matches receive low BLEU scores, showing the challenge of memory precision.
 
 ## 🔮 Future Work
