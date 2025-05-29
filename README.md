@@ -71,7 +71,7 @@ Q: Who are your teammates in your algorithm class?
 A: Brian, David, and Jasmine.
 Reference: Tom, Brian, Chris, and Alex
 BLEU Score: 0.0098
-
+```
 Even partial matches receive low BLEU scores, showing the challenge of memory precision.
 
 ## 🔮 Future Work
